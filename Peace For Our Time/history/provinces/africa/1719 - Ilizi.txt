@@ -1,0 +1,5 @@
+add_core = TUA
+add_core = RGA
+trade_goods = wool
+life_rating = 10
+terrain = desert_massif

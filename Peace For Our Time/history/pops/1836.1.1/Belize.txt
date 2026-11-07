@@ -1,0 +1,136 @@
+#Guatemala Region (7200)
+#Ruled by Britain 1836
+#Belize (7200/1800 POPS)
+2190 = {
+
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 40
+    }
+
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = british
+        religion = anglican
+        size = 125
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = kreol
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = kreol
+        religion = protestant
+        size = 2700
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 550
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 758
+    }
+
+    farmers = {
+        culture = mayan
+        religion = catholic
+        size = 850
+    }
+
+}
+4079 = {
+    aristocrats = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+	
+    clergymen = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = mayan
+        religion = animist
+        size = 750
+    }
+
+}
+4080 = {
+    aristocrats = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+	
+    clergymen = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mayan
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = mayan
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = kreol
+        religion = animist
+        size = 200
+    }
+
+}

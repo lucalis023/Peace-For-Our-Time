@@ -1,0 +1,49 @@
+FRA = { value = -40 }
+BOR = { value = -40 }
+TUA = { value = 80 }
+MAS = { value = -60 }
+NIG = { value = -30 }
+DND = { value = 20 }
+MOS = { value = 30 }
+JTN = { value = -10 }
+BKF = { value = -5 }
+GWR = { value = -10 }
+KNG = { value = -15 }
+IVC = { value = 10 }
+GYM = { value = -10 }
+ASH = { value = -10 }
+FTE = { value = 15 }
+DGO = { value = -20 }
+GHN = { value = -15 }
+KDG = { value = 15 }
+
+army = {
+    name = "Army of the Empire of Segu"
+    location = 1800
+
+    regiment = {
+        name = "Guards of Segu"
+        type = irregular
+        home = 1800
+    }
+
+    regiment = {
+        name = "Bambara Warriors"
+        type = irregular
+        home = 1794
+    }
+
+    regiment = {
+        name = "Bambara Warriors"
+        type = cavalry
+        home = 1799
+    }
+}
+
+leader = {
+    name = "Da Diarra"
+    type = land
+    date = 1829.12.14
+    personality = defence_3.1
+    background = attack_2.1
+}

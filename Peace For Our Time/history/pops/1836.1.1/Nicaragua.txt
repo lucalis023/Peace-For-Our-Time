@@ -1,0 +1,314 @@
+#Nicaragua Region (292000)
+#Ruled by Central America 1836
+#Managua (192000/48000 POPS)
+2197 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 315
+    }
+
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 30
+    }
+
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 140
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 720
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1140
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 16980
+    }
+
+	farmers = {
+        culture = chibchan
+        religion = catholic
+        size = 3025
+    }
+}
+#Rivas (40000/10000 POPS)
+2198 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 130
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 6860
+    }
+}
+#Esteli (48000/12000 POPS)
+2199 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 325
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 600
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1125
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 16375
+    }
+
+	farmers = {
+        culture = chibchan
+        religion = catholic
+        size = 1825
+    }
+}
+#Bluefields (12000/3000 POPS)
+2200 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 15
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 270
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 1190
+    }
+
+    farmers = {
+        culture = chibchan #miskito
+        religion = animist
+        size = 8155
+    }
+
+    farmers = {
+        culture = kreol
+        religion = animist
+        size = 445
+    }
+
+}
+
+# San Carlos
+3491 = {
+	aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 140
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 900
+    }
+
+    farmers = {
+        culture = chibchan
+        religion = catholic
+        size = 1840
+    }
+}
+
+# Juigalpa
+3492 = {
+	aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 300
+    }
+
+	farmers = {
+        culture = chibchan
+        religion = catholic
+        size = 7700
+    }
+}
+
+# Juigalpa
+3735 = {
+	aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 390
+    }
+
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 70
+    }
+
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 680
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 170
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 8900
+    }
+
+	farmers = {
+        culture = chibchan
+        religion = catholic
+        size = 600
+    }
+}

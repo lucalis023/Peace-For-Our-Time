@@ -1,0 +1,8 @@
+add_core = USA
+trade_goods = sugar
+life_rating = 5
+terrain = marsh
+party_loyalty = { ideology = conservative loyalty_value = 15 }
+colonial = 1
+owner = USA
+controller = USA

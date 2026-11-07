@@ -1,0 +1,51 @@
+#Relations
+NEJ = {
+    value = -70
+}
+
+HAL = {
+    value = 20
+}
+
+FDL = {
+    value = -20        #relation
+}
+
+WHD = {
+    value = -20        #relation
+}
+
+MHR = {
+    value = -80        #relation
+}
+
+NYE = {
+    value = -50
+}
+
+ENG = {
+    value = 10        #relation
+}
+
+leader = {
+    name = "Ghalib ibn Muhsin al-Kathir"
+    type = land
+    date = 1830.1.1
+    personality = defence_1.1
+    background = attack_1.1
+}
+
+army = {
+    name = "Sultan's Army"
+    location = 1176
+    regiment = {
+        name = "1. Brigade"
+        type = irregular
+        home = 1176
+    }
+    regiment = {
+        name = "2. Brigade"
+        type = cavalry
+        home = 3865
+    }
+}

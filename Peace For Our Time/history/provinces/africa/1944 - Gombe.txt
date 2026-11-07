@@ -1,0 +1,5 @@
+add_core = VNZ
+life_rating = 5
+trade_goods = fish
+owner = VNZ
+controller = VNZ

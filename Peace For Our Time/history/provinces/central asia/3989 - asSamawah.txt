@@ -1,0 +1,9 @@
+owner = JOR
+controller = JOR
+add_core = TUR
+add_core = IRQ
+add_core = JOR
+add_core = DUB
+trade_goods = grain
+terrain = farmlands
+life_rating = 35

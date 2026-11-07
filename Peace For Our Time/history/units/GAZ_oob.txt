@@ -1,0 +1,59 @@
+POR = {
+    truce_until = 1841.1.1
+    value = 125
+}
+NGO = {
+	value = -50
+	truce_until = 1833.1.1
+}
+SHO = { value = -20 }
+MOZ = { value = -10 }
+
+leader = {
+   name = "Soshangane"
+   type = land
+   date = 1830.1.1
+   background = attack_4.1
+   personality = defence_3.1
+}
+
+army = {
+    name = "Army of the Gaza Empire"
+    location = 2050
+    regiment = {
+        name = "King's Guard"
+        type = irregular
+        home = 2050
+    }
+
+    regiment = {
+        name = "Gaza Warriors"
+        type = irregular
+        home = 2050
+    }
+
+    regiment = {
+        name = "Nguni Warriors"
+        type = cavalry
+        home = 2050
+    }
+
+    regiment = {
+        name = "Fonhololo Warriors"
+        type = irregular
+        home = 3677
+    }
+
+    regiment = {
+        name = "Pedi Warriors"
+        type = irregular
+        home = 3713
+    }
+
+    regiment = {
+        name = "Shona Warriors"
+        type = irregular
+        home = 2073
+    }
+
+}

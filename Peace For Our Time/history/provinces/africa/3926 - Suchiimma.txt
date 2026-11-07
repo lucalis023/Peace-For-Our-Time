@@ -1,0 +1,5 @@
+add_core = CLM
+life_rating = 5
+trade_goods = fish
+owner = CLM
+controller = CLM

@@ -1,0 +1,6 @@
+owner = COS
+controller = COS
+add_core = COS
+trade_goods = sugar
+life_rating = 35
+terrain = new_world_jungle

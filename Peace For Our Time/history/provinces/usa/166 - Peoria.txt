@@ -1,0 +1,11 @@
+add_core = USA
+trade_goods = cattle
+life_rating = 5
+terrain = new_world_plains
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 12
+}
+owner = USA
+controller = USA
+}

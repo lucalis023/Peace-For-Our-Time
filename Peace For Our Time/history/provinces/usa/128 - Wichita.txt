@@ -1,0 +1,6 @@
+add_core = PNM
+trade_goods = coffee
+life_rating = 25
+terrain = new_world_jungle
+owner = PNM
+controller = PNM

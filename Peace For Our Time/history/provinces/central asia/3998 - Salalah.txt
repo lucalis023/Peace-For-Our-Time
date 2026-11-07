@@ -1,0 +1,7 @@
+owner = MGH
+controller = MGH
+add_core = MGH
+add_core = OMA
+trade_goods = opium
+life_rating = 32
+terrain = dryhills

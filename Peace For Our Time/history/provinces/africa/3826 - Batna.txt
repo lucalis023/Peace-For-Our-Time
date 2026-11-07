@@ -1,0 +1,7 @@
+owner = LBY
+controller = LBY
+add_core = LBY
+add_core = RGA
+trade_goods = grain
+life_rating = 35
+terrain = dry_mountains

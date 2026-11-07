@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = CIR
+trade_goods = grain
+fort = 2
+life_rating = 35

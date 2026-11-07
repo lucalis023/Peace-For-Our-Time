@@ -1,0 +1,6 @@
+add_core = USA
+trade_goods = timber
+terrain = montane_forest
+life_rating = 5
+owner = USA
+controller = USA

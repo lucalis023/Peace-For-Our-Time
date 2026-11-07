@@ -1,0 +1,6 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+trade_goods = grain
+colonial = 2
+life_rating = 35

@@ -1,0 +1,11 @@
+BNB = { value = -40 }
+
+army = {
+    name = "Army of the Kurdish Emir"
+    location = 892
+    regiment = {
+        name = "Kurdish Warriors"
+        type = infantry
+        home = 892
+    }
+}

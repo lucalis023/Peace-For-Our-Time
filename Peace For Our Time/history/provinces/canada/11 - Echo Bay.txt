@@ -1,0 +1,7 @@
+trade_goods = iron
+life_rating = 5
+colonial = 1
+terrain = new_world_arctic
+owner = CAN
+controller = CAN
+add_core = CAN

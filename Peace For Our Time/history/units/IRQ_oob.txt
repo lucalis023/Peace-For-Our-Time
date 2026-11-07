@@ -1,0 +1,29 @@
+army = {
+    name = "Army of Mesopotamia"
+    location = 926
+    regiment = {
+        name = "2.1 Infantry"
+        type = infantry
+        home = 926
+    }
+
+    regiment = {
+        name = "1.1 Artillery"
+        type = artillery
+        home = 926
+    }
+
+    regiment = {
+        name = "1.1 Cavalry"
+        type = cavalry
+        home = 930
+    }
+}
+leader = {
+    name = "Dawud Pasha"
+    type = land
+    date = "1830.1.1"
+    personality = defence_1.1
+    background = attack_1.1
+    prestige = 0.3
+}

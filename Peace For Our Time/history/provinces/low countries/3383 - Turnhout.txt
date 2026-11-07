@@ -1,0 +1,6 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+add_core = FLA
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,3 @@
+﻿owner = CLN
+controller = CLN
+trade_goods = fruit

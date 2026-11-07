@@ -1,0 +1,6 @@
+add_core = HON
+trade_goods = fruit
+life_rating = 5
+terrain = new_world_plains
+owner = HON
+controller = HON

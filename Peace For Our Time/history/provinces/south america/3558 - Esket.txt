@@ -1,0 +1,6 @@
+trade_goods = timber
+add_core = ARG
+terrain = montane_forest
+life_rating = 15
+owner = ARG
+controller = ARG

@@ -1,0 +1,76 @@
+
+army = {
+    name = "Army of the Sultan of Muscat"
+    location = 1166
+    regiment = {
+        name = "1. Brigade"
+        type = infantry
+        home = 1166
+    }
+    regiment = {
+        name = "2. Brigade"
+        type = irregular
+        home = 1166
+    }
+}
+
+army = {
+    name = "Army of the Wali of Zanzibar"
+    location = 3875
+
+    regiment = {
+        name = "1. Askaris"
+        type = infantry
+        home = 2048
+    }
+    regiment = {
+        name = "3. Brigade"
+        type = irregular
+        home = 2048
+    }
+    regiment = {
+        name = "4. Brigade"
+        type = irregular
+        home = 3875
+    }
+    regiment = {
+        name = "5. Brigade"
+        type = cavalry
+        home = 3875
+    }
+    regiment = {
+        name = "6. Brigade"
+        type = irregular
+        home = 2048
+    }
+}
+
+navy = {
+    name = "Omani Fleet"
+    location = 1166
+    ship = {
+        name = "Transport Flotilla"
+        type = clipper_transport
+    }
+    ship = {
+        name = "Transport Flotilla"
+        type = clipper_transport
+    }
+
+}
+
+leader = {
+    name = "Said bin Sultan"
+    type = land
+    date = 1807.12.12
+    background = attack_4.1
+    personality = defence_2.1
+}
+
+leader = {
+    name = "Thuwaini bin Said al-Busaidi"
+    type = land
+    date = 1829.12.12
+    background = attack_4.1
+    personality = defence_3.1
+}

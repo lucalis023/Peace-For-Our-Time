@@ -1,0 +1,3 @@
+add_core = CAN
+owner = CAN
+controller = CAN

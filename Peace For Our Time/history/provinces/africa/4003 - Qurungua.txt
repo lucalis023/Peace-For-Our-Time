@@ -1,0 +1,5 @@
+﻿owner = BOL
+trade_goods = fruit
+owner = BOL
+controller = BOL
+add_core = BOL

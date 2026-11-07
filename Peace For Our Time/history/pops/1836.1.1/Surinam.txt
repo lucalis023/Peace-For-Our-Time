@@ -1,0 +1,188 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
+2240 = {
+    aristocrats = {
+        culture = dutch
+        religion = reformed
+        size = 35
+    }
+
+    bureaucrats = {
+        culture = dutch
+        religion = reformed
+        size = 20
+    }
+
+    artisans = {
+        culture = dutch
+        religion = reformed
+        size = 50
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = reformed
+        size = 35
+    }
+
+    clergymen = {
+        culture = kreol
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = kreol
+        religion = protestant
+        size = 750
+    }
+
+	farmers = {
+        culture = amazonian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = kreol
+        religion = protestant
+        size = 500
+    }
+
+	farmers = {
+        culture = javan
+        religion = protestant
+        size = 75
+    }
+
+	farmers = {
+        culture = amazonian
+        religion = protestant
+        size = 675
+    }
+
+	farmers = {
+        culture = amazonian
+        religion = protestant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = kreol
+        religion = protestant
+        size = 15
+    }
+
+    slaves = {
+        culture = afro_dutch
+        religion = animist
+        size = 5500
+    }
+}
+#Aperina (8000/2000 POPS)
+2245 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 17
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 35
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 70
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 17
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4825
+    }
+
+}
+
+# Tapanahony
+3653 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 8
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1525
+    }
+}
+
+#Litani
+3556 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 160
+    }
+
+    farmers = {
+        culture = tupinamba
+        religion = animist
+        size = 35
+    }
+
+}

@@ -1,0 +1,42 @@
+GON = {
+    value = -20
+}
+
+SHW = {
+    value = -50
+}
+
+TIG = {
+    value = -30
+}
+
+TUR = {
+    value = 50
+}
+
+EGY = {
+    value = 60
+}
+
+AWS = {
+    value = 20
+}
+
+HAR = {
+    value = 75
+}
+
+ISQ = {
+    value = -10
+}
+
+
+army = {
+    name = "Army of the Warsangali Sultanate"
+    location = 3707
+    regiment = {
+        name = "Shaykh's Guards"
+        type = irregular
+        home = 3707
+    }
+}

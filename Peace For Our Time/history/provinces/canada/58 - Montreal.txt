@@ -1,0 +1,8 @@
+owner = CAN
+controller = CAN
+add_core = QUE
+add_core = CAN
+trade_goods = cattle
+life_rating = 38
+colonial = 2
+is_slave = yes

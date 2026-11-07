@@ -1,0 +1,10 @@
+owner = MKN
+controller = MKN
+add_core = MKN
+add_core = JZR
+add_core = KDS
+add_core = ASY
+add_core = TUR
+trade_goods = grain
+life_rating = 35
+terrain = hills

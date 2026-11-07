@@ -1,0 +1,41 @@
+EGY = { value = -90 }
+KBO = { value = -20 }
+ADW = { value = 30 }
+CMR = { value = -20 }
+NMB = { value = -20 }
+SOK = { value = -20 }
+CYR = { value = -20 }
+WAD = { value = -70 }
+
+army = {
+    name = "Army of the Sultanate of Darfur"
+    location = 1841
+	leader = {
+		name = "Muhammad al-Husayn"
+		date = 1829.12.19
+		type = land
+		personality = defence_3.1
+		background = attack_3.1
+		prestige = 0.1
+	}
+	regiment = {
+        name = "Sultan's Kights"
+		type = cavalry
+        home = 1841
+	}
+	regiment = {
+        name = "Fur Warriors"
+		type = irregular
+		home = 1842
+	}
+	regiment = {
+        name = "Fur Warriors 2."
+		type = irregular
+		home = 1842
+	}
+	regiment = {
+        name = "Junaynah Warriors"
+		type = irregular
+		home = 3702
+	}
+}

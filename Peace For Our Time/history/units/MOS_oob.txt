@@ -1,0 +1,39 @@
+JTN = { value = -40 }
+NIG = { value = -20 }
+BKF = { value = 30 }
+DND = { value = 20 }
+KEB = { value = -40 }
+BGU = { value = 30 }
+DGO = { value = -60 }
+GHN = { value = -40 }
+ASH = { value = 20 }
+GYM = { value = 10 }
+FTE = { value = 10 }
+
+army = {
+    name = "Army of the Mossi"
+    location = 1901
+	regiment = {
+		name = "Mogho Naba's Cavalry"
+		type = cavalry
+		home = 1901
+	}
+	regiment = {
+        name = "1st Mossi Warriors"
+        type = irregular
+		home = 1901
+	}
+	regiment = {
+        name = "2nd Mossi Warriors"
+		type = irregular
+		home = 3816
+    }
+}
+leader = {
+    name = "Sawadogo Mogho Naba"
+    type = land
+    date = 1830.1.1
+    personality = defence_1.1
+    background = attack_3.1
+    prestige = 0.2
+}

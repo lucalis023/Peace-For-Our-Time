@@ -1,0 +1,21 @@
+ENG = { value = 25 }
+KHO = { value = -5 }
+ZUL = { value = -25 }
+BSH = { value = 5 }
+KHA = { value = 25 }
+XHO = { value = -35 }
+
+army = {
+    name = "Griqua Army"
+    location = 2094
+    regiment = {
+        name = "Griqua Commando"
+        type = irregular
+        home = 2094
+    }
+    regiment = {
+        name = "Philippolis Regiment"
+        type = irregular
+        home = 2103
+    }
+}

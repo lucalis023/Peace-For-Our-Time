@@ -1,0 +1,6 @@
+﻿owner = ENG
+controller = ENG
+add_core = VNZ
+add_core = AMA
+trade_goods = fruit
+owner = ENG

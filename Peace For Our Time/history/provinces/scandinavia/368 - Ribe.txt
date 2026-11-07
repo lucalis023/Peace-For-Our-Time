@@ -1,0 +1,6 @@
+add_core = CAN
+terrain = small_island
+trade_goods = fish
+life_rating = 5
+owner = CAN
+controller = CAN

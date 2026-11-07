@@ -1,0 +1,9 @@
+army = {
+    name = "Army of the Bani Khalid"
+    location = 3990
+	regiment = {
+        name = "Bani Khalid Cavalry"
+        type = cavalry
+		home = 1164
+    }
+}

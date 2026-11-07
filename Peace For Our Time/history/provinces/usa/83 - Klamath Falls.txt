@@ -1,0 +1,7 @@
+add_core = USA
+trade_goods = fish
+life_rating = 5
+terrain = montane_forest
+colonial = 1
+owner = USA
+controller = USA

@@ -1,0 +1,7 @@
+owner = BDK
+controller = BDK
+add_core = BDK
+add_core = KUN
+trade_goods = fruit
+life_rating = 30
+terrain = himalayan_mountains

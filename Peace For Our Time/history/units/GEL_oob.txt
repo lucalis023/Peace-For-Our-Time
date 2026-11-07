@@ -1,0 +1,56 @@
+TUR = {
+    value = 40
+}
+
+EGY = {
+    value = 30
+}
+
+HAR = {
+    value = 10
+}
+
+SOM = {
+    value = -70
+}
+
+MAJ = {
+    value = -30
+}
+
+WRL = {
+    value = -20
+}
+
+OMA = {
+    value = 60
+}
+
+army = {
+    name = "Army of the Geledi Sultanate"
+    location = 3712
+    regiment = {
+        name = "Sultan's Guards"
+        type = irregular
+        home = 3712
+    }
+    regiment = {
+        name = "Baidoa Tribesmen"
+        type = irregular
+        home = 1869
+    }
+}
+
+navy = {
+    name = "Geledi Fleet"
+    location = 3712
+    ship = {
+        name = "Transport Flotilla"
+        type = clipper_transport
+    }
+    ship = {
+        name = "Transport Flotilla"
+        type = clipper_transport
+    }
+
+}

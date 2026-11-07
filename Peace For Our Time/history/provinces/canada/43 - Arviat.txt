@@ -1,0 +1,6 @@
+add_core = USA
+trade_goods = cotton
+life_rating = 5
+terrain = forest
+owner = USA
+controller = USA

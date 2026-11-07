@@ -1,0 +1,5 @@
+trade_goods = wool
+add_core = CHL
+life_rating = 10
+owner = CHL
+controller = CHL

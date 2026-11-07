@@ -1,0 +1,7 @@
+add_core = BRZ
+add_core = SAP
+terrain = forest
+trade_goods = tea
+life_rating = 5
+owner = BRZ
+controller = BRZ

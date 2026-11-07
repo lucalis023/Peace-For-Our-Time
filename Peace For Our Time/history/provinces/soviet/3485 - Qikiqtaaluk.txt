@@ -1,0 +1,7 @@
+add_core = CAN
+trade_goods = fish
+life_rating = 5
+terrain = boreal
+colonial = 1
+owner = CAN
+controller = CAN

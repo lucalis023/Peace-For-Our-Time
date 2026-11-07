@@ -1,0 +1,52 @@
+ENG = { value = -20 }
+POR = { value = -40 }
+STP = { value = -60 }
+PCF = { value = 10 }
+MAT = { value = -70 }
+SUA = { value = 20 }
+GAZ = { value = -50 }
+MOZ = { value = -25 }
+NGO = { value = -5 }
+SHO = { 
+	value = -50
+	truce_until = 1835.1.1
+}
+
+leader = {
+    name = "Tohwechipi Zharare"
+    type = land
+    date = 1830.1.1
+    personality = defence_3.1
+    background = attack_2.1
+    prestige = 0.1
+}
+
+army = {
+    name = "Army of the Rozvi"
+    location = 2071
+    regiment = {
+        name = "1. Rozvi"
+        type = irregular
+        home = 2071
+    }
+
+    regiment = {
+        name = "2. Rozvi"
+        type = irregular
+        home = 2069
+    }
+
+    regiment = {
+        name = "3. Rozvi"
+        type = irregular
+        home = 2070
+    }
+
+
+    regiment = {
+        name = "1. Cavalry"
+        type = cavalry
+        home = 2072
+    }
+
+}

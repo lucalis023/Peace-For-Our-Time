@@ -1,0 +1,6 @@
+add_core = ARG
+trade_goods = grain
+terrain = farmlands
+life_rating = 20
+owner = ARG
+controller = ARG

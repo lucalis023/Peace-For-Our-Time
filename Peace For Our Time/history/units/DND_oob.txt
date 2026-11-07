@@ -1,0 +1,35 @@
+DAM = { value = 30 }
+KEB = { value = 50 }
+ZRU = { value = -15 }
+IBD = { value = 10 }
+ILO = { value = -50 }
+OYO = { value = -10 }
+LBY = { value = 10 }
+
+army = {
+    name = "Army of the Dendi Kingdom"
+    location = 3762
+	regiment = {
+        name = "Askiya's Cavalry"
+		type = cavalry
+        home = 3762
+	}
+	regiment = {
+        name = "1. Dendi Warriors"
+		type = irregular
+        home = 1808
+	}
+	regiment = {
+        name = "2. Dendi Warriors"
+		type = irregular
+        home = 1808
+	}
+}
+leader = {
+    name = "Bassaru Ize Askia"
+    type = land
+    date = 1830.1.1
+    personality = no_personality
+    background = attack_2.1
+    prestige = 0.1
+}

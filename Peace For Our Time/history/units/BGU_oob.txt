@@ -1,0 +1,47 @@
+KEB = { value = 50 }
+ZRU = { value = 30 }
+KWR = { value = -15 }
+IDM = { value = -5 }
+IBD = { value = 10 }
+ARO = { value = 20 }
+EFN = { value = 10 }
+ILO = { value = -80 }
+OYO = { value = 60 }
+BEN = { value = -10 }
+LBY = { value = -20 }
+NGR = { value = 15 }
+WRI = { value = 5 }
+
+army = {
+    name = "Army of Borgu"
+    location = 1938
+	regiment = {
+        name = "Emir's Guards"
+		type = irregular
+		home = 1921
+	}
+	regiment = {
+        name = "Kwa Warriors"
+        type = irregular
+		home = 1921
+    }
+	regiment = {
+        name = "Borgu Warriors"
+		type = irregular
+		home = 1938
+    }
+	regiment = {
+        name = "Gur Cavalry"
+		type = cavalry
+		home = 3830
+    }
+}
+
+leader = {
+    name = "Dogo dan Jibrim"
+    type = land
+    date = 1830.1.1
+    personality = defence_3.1
+    background = attack_3.1
+    prestige = 0.1
+}

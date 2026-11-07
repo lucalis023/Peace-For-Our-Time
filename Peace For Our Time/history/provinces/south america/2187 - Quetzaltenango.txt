@@ -1,0 +1,6 @@
+add_core = GUA
+trade_goods = iron
+terrain = jungle_mountains
+life_rating = 5
+owner = GUA
+controller = GUA

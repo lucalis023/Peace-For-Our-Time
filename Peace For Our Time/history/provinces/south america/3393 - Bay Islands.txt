@@ -1,0 +1,8 @@
+owner = HON
+controller = HON
+add_core = HON
+trade_goods = fish
+colonial = 2
+terrain = small_island
+life_rating = 30
+is_slave = yes

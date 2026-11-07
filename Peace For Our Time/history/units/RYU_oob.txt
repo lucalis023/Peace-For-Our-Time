@@ -1,0 +1,20 @@
+QNG = { value = 125 }
+JAP = { value = 125 }
+
+leader = {
+    name = "Sho Iku"
+    date = 1830.1.1
+    type = land
+    personality = defence_1.1
+    background = no_background
+}
+
+army = {
+    name = "Royal Army of Ryukyu"
+    location = 1678
+    regiment = {
+        name = "Ryukyuan Warriors"
+        type = irregular
+        home = 1678
+    }
+}

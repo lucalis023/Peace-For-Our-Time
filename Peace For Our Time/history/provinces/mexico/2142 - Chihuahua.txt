@@ -1,0 +1,6 @@
+add_core = MEX
+trade_goods = grain
+life_rating = 5
+terrain = dryhills
+owner = MEX
+controller = MEX

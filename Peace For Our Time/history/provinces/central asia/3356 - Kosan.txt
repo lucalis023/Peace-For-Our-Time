@@ -1,0 +1,7 @@
+owner = HRT
+controller = HRT
+add_core = HRT
+trade_goods = grain
+life_rating = 35
+terrain = dryhills
+fort = 1

@@ -1,0 +1,11 @@
+name = "Peace For Our Time" # Sept 2023
+path = "mod/Peace For Our Time" # location of your mod files. If changed change map/default.map as well
+user_dir = "PFOT" # optional.   
+replace_path = "common"
+replace_path = "units"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "music"
+replace_path = "history"
+replace_path = "gfx"
+replace_path = "tutorial"

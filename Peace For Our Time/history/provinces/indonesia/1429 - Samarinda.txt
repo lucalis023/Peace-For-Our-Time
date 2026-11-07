@@ -1,0 +1,6 @@
+owner = BGN
+controller = BGN
+add_core = BGN
+trade_goods = fruit
+life_rating = 31
+terrain = jungle_hills

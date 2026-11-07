@@ -1,0 +1,15 @@
+NYM = { value = -20 }
+KNY = { value = 15 }
+BUG = { value = -45 }
+BNY = { value = -35 }
+WNG = { value = 0 }
+
+army = {
+    name = "Royal Army of Nkole"
+    location = 2020
+	regiment = {
+        name = "King's Guards"
+		type = irregular
+		home = 2020
+	}
+}

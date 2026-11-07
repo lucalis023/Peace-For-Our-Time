@@ -1,0 +1,8 @@
+owner = DUB
+controller = DUB
+add_core = TUR
+add_core = IRQ
+add_core = DUB
+trade_goods = fruit
+life_rating = 35
+terrain = marsh

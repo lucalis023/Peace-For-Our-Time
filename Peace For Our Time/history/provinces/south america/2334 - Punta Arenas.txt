@@ -1,0 +1,6 @@
+trade_goods = wool
+add_core = CHL
+terrain = steppe
+life_rating = 15
+owner = CHL
+controller = CHL

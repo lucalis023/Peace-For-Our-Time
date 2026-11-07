@@ -1,0 +1,14 @@
+owner = YUG
+controller = YUG
+add_core = YUG
+add_core = SLO
+add_core = ITA
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+#state_building = {
+#    level = 1
+#    building = liquor_distillery
+#    upgrade = yes
+#}
+}

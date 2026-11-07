@@ -1,0 +1,7 @@
+owner = PAG
+controller = PAG
+add_core = SAK
+add_core = PAG
+trade_goods = tobacco
+life_rating = 32
+terrain = jungle_mountains

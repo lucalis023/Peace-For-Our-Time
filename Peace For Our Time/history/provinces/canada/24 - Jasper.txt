@@ -1,0 +1,6 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+terrain = steppe
+trade_goods = grain
+life_rating = 31

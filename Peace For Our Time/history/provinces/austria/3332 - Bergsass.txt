@@ -1,0 +1,5 @@
+owner = CZH
+controller = CZH
+add_core = CZH
+trade_goods = fruit
+life_rating = 35

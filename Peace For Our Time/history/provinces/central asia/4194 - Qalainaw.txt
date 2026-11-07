@@ -1,0 +1,6 @@
+owner = MYN
+controller = MYN
+add_core = MYN
+trade_goods = grain
+life_rating = 35
+terrain = dryhills

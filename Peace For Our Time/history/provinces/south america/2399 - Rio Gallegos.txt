@@ -1,0 +1,6 @@
+trade_goods = wool
+add_core = ARG
+terrain = steppe
+life_rating = 15
+owner = ARG
+controller = ARG

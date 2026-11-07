@@ -1,0 +1,6 @@
+add_core = PEU
+trade_goods = tropical_wood
+life_rating = 5
+colonial = 1
+owner = PEU
+controller = PEU

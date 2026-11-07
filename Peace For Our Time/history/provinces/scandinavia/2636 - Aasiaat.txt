@@ -1,0 +1,6 @@
+add_core = GRN
+trade_goods = fish
+life_rating = 1
+terrain = greenland
+owner = GRN
+controller = GRN

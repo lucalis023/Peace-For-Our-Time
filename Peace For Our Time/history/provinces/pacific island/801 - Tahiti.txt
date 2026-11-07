@@ -1,0 +1,7 @@
+owner = TMT
+controller = TMT
+add_core = TMT
+trade_goods = pearls
+life_rating = 15
+terrain = small_island
+colonial = 2

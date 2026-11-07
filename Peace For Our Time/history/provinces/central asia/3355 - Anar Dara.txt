@@ -1,0 +1,7 @@
+owner = HRT
+controller = HRT
+add_core = HRT
+add_core = KHT
+trade_goods = wool
+terrain = dryhills
+life_rating = 35

@@ -1,0 +1,6 @@
+add_core = VNZ
+trade_goods = grain
+life_rating = 5
+terrain = jungle_mountains
+owner = VNZ
+controller = VNZ

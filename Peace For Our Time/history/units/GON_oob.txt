@@ -1,0 +1,80 @@
+EGY = {
+    value = 30
+}
+
+TUR = {
+    value = 30
+}
+
+SHW = {
+    value = 40
+}
+
+TIG = {
+    value = 60
+}
+
+WLO = {
+    value = 60
+}
+
+GJM = {
+    value = 60
+}
+
+HAR = {
+    value = -100
+}
+
+AWS = {
+    value = -100
+}
+
+leader = {
+   name = "Ras Ali II"
+   type = land
+   date = 1830.1.1
+   background = no_background
+   personality = no_personality
+}
+
+army = {
+    name = "Army of the Ras"
+    location = 1852
+    regiment = {
+        name = "Ras' Guards"
+        type = irregular
+        home = 1852
+    }
+
+    regiment = {
+        name = "Ras' Horsemen"
+        type = cavalry
+        home = 1852
+    }
+
+    regiment = {
+        name = "Negus' Guards"
+        type = irregular
+        home = 1852
+    }
+
+    regiment = {
+        name = "Imperial Guards"
+        type = irregular
+        home = 1852
+    }
+
+    regiment = {
+        name = "Gonder City Guard"
+        type = irregular
+        home = 1852
+    }
+
+    regiment = {
+        name = "Debre Tabor Horsemen"
+        type = cavalry
+        home = 3592
+    }
+
+}

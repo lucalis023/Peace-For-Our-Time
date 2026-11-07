@@ -1,0 +1,22 @@
+PNJ = {
+    value = -100
+}
+AFG = { truce_until = 1834.1.1 }
+
+army = {
+    name = "Army of the Nawab of Bahawalpur"
+    location = 1231
+    regiment = {
+        name = "1. Khosa"
+        type = irregular
+        home = 1231
+    }
+}
+
+leader = {
+    name = "Nawab Mohammad Abbasi"
+    type = land
+    date = 1800.12.14
+    background = no_background
+    personality = no_personality
+}

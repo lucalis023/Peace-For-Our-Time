@@ -1,0 +1,5 @@
+﻿add_core = PAA
+add_core = BRZ
+owner = BRZ
+controller = BRZ
+trade_goods = fruit

@@ -1,0 +1,8 @@
+owner = PLS
+controller = PLS
+add_core = KHZ
+add_core = PER
+add_core = PLS
+trade_goods = grain
+terrain = marsh
+life_rating = 35

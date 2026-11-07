@@ -1,0 +1,8 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = KIR
+terrain = semi_desert_mountains
+trade_goods = wool
+fort = 1
+life_rating = 35

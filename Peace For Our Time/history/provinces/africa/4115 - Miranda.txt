@@ -1,0 +1,6 @@
+﻿add_core = BRZ
+add_core = MGO
+add_core = BRZ
+owner = BRZ
+controller = BRZ
+trade_goods = fruit

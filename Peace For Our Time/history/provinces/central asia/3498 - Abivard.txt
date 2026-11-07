@@ -1,0 +1,6 @@
+owner = TKM
+controller = TKM
+add_core = TKM
+trade_goods = fruit
+terrain = semidesert
+life_rating = 35

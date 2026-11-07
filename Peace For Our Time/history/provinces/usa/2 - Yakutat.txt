@@ -1,0 +1,7 @@
+add_core = USA
+trade_goods = fish
+life_rating = 5
+colonial = 2
+terrain = arctic
+owner = USA
+controller = USA

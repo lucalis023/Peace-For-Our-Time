@@ -1,0 +1,4 @@
+add_core = BKY
+trade_goods = wool
+life_rating = 15
+colonial = 1

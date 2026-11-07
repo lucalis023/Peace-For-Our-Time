@@ -1,0 +1,6 @@
+add_core = ARG
+trade_goods = fruit
+terrain = dryhills
+life_rating = 15
+owner = ARG
+controller = ARG

@@ -1,0 +1,6 @@
+﻿add_core = PRG
+owner = PRG
+controller = PRG
+trade_goods = fruit
+add_core = PRG
+add_core = BOL

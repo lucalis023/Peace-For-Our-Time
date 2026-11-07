@@ -1,0 +1,596 @@
+#Semireche Region (292000) #see Kazakhstan.txt for balance of region
+#under the "rule" of Kokand in 1836
+#Bishkek (72000/18000 POPS) #now part of Kirghizstan
+1189 = {
+    clergymen = {
+        culture = sart
+        religion = sunni
+        size = 5
+    }
+
+    artisans = {
+        culture = sart
+        religion = sunni
+        size = 40
+    }
+	
+	farmers = {
+        culture = sart
+        religion = sunni
+        size = 670
+    }
+	
+	clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 15
+    }
+	
+	artisans = {
+        culture = kazak
+        religion = sunni
+        size = 145
+    }
+	
+	farmers = {
+        culture = kazak
+        religion = sunni
+        size = 3050
+    }
+	
+	aristocrats = {
+        culture = kirgiz
+        religion = sunni
+        size = 840
+    }
+	
+	clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 85
+    }
+
+	artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 865
+    }
+	
+	soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 870
+    }
+	
+	farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 29155
+    }
+	
+	artisans = {
+        culture = uighur
+        religion = sunni
+        size = 2
+    }
+	
+	farmers = {
+        culture = uighur
+        religion = sunni
+        size = 130
+    }
+	
+	artisans = {
+        culture = kalmyk
+        religion = sunni
+        size = 5
+    }
+	
+	farmers = {
+        culture = kalmyk
+        religion = sunni
+        size = 20
+    }
+
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 450
+    }
+
+	slaves = {
+        culture = tajik
+        religion = sunni
+        size = 50
+    }
+}
+#Merke (66000/17000 POPS)
+4137 = {
+    clergymen = {
+        culture = uzbek
+        religion = sunni
+        size = 5
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = sunni
+        size = 10
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = sart
+        religion = sunni
+        size = 5
+    }
+
+    artisans = {
+        culture = sart
+        religion = sunni
+        size = 10
+    }
+
+    soldiers = {
+        culture = sart
+        religion = sunni
+        size = 35
+    }
+	
+	farmers = {
+        culture = sart
+        religion = sunni
+        size = 230
+    }
+
+	artisans = {
+        culture = kipchak_minor
+        religion = sunni
+        size = 20
+    }
+	
+	farmers = {
+        culture = kipchak_minor
+        religion = sunni
+        size = 8
+    }
+	
+	clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 10
+    }
+	
+	artisans = {
+        culture = kazak
+        religion = sunni
+        size = 135
+    }
+	
+	farmers = {
+        culture = kazak
+        religion = sunni
+        size = 2890
+    }
+	
+	aristocrats = {
+        culture = kirgiz
+        religion = sunni
+        size = 525
+    }
+	
+	clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 85
+    }
+
+	artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 795
+    }
+	
+	soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 2345
+    }
+	
+	farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 26855
+    }
+
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 950
+    }
+	
+	slaves = {
+        culture = persian
+        religion = shiite
+        size = 150
+    }
+	
+	slaves = {
+        culture = tajik
+        religion = sunni
+        size = 575
+    }
+}
+#Kochkor (67000/17000 POPS)
+3914 = {
+    clergymen = {
+        culture = sart
+        religion = sunni
+        size = 5
+    }
+
+    artisans = {
+        culture = sart
+        religion = sunni
+        size = 50
+    }
+	
+	farmers = {
+        culture = sart
+        religion = sunni
+        size = 450
+    }
+	
+	clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 15
+    }
+	
+	artisans = {
+        culture = kazak
+        religion = sunni
+        size = 195
+    }
+	
+	farmers = {
+        culture = kazak
+        religion = sunni
+        size = 3205
+    }
+	
+	aristocrats = {
+        culture = kirgiz
+        religion = sunni
+        size = 755
+    }
+	
+	clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 85
+    }
+
+	artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 860
+    }
+	
+	soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 2270
+    }
+	
+	farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 26160
+    }
+	
+	artisans = {
+        culture = uighur
+        religion = sunni
+        size = 5
+    }
+	
+	farmers = {
+        culture = uighur
+        religion = sunni
+        size = 160
+    }
+	
+	artisans = {
+        culture = kalmyk
+        religion = sunni
+        size = 15
+    }
+	
+	farmers = {
+        culture = kalmyk
+        religion = sunni
+        size = 320
+    }
+
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 350
+    }
+
+	slaves = {
+        culture = tajik
+        religion = sunni
+        size = 50
+    }
+}
+#Kyzylsuu (63000/16000 POPS) #now part of Kirghizstan
+1190 = {
+    clergymen = {
+        culture = sart
+        religion = sunni
+        size = 5
+    }
+
+    artisans = {
+        culture = sart
+        religion = sunni
+        size = 45
+    }
+	
+	farmers = {
+        culture = sart
+        religion = sunni
+        size = 220
+    }
+	
+	clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 10
+    }
+	
+	artisans = {
+        culture = kazak
+        religion = sunni
+        size = 135
+    }
+	
+	farmers = {
+        culture = kazak
+        religion = sunni
+        size = 2670
+    }
+	
+	aristocrats = {
+        culture = kirgiz
+        religion = sunni
+        size = 565
+    }
+	
+	clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 80
+    }
+
+	artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 710
+    }
+	
+	soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 2125
+    }
+	
+	farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 25695
+    }
+	
+	artisans = {
+        culture = uighur
+        religion = sunni
+        size = 10
+    }
+	
+	farmers = {
+        culture = uighur
+        religion = sunni
+        size = 160
+    }
+	
+	artisans = {
+        culture = kalmyk
+        religion = sunni
+        size = 55
+    }
+	
+	farmers = {
+        culture = kalmyk
+        religion = sunni
+        size = 850
+    }
+
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 250
+    }
+	
+	soldiers = {
+        culture = oirat
+        religion = gelugpa
+        size = 50
+    }
+}
+#Mawarannahr Region (112000) #see Kazakhstan.txt, Tajikistan.txt, Uzbekistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Osh (106000/27000 POPS) #Now part of Kirghizstan
+1203 = {
+    aristocrats = {
+        culture = uzbek
+        religion = sunni
+        size = 5
+    }
+	
+    clergymen = {
+        culture = uzbek
+        religion = sunni
+        size = 15
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = sunni
+        size = 20
+    }
+	
+    farmers = {
+        culture = uzbek
+        religion = sunni
+        size = 25
+    }
+	
+	aristocrats = {
+        culture = sart
+        religion = sunni
+        size = 105
+    }
+	
+	bureaucrats = {
+		culture = sart
+		religion = sunni
+		size = 8
+	}
+
+    clergymen = {
+        culture = sart
+        religion = sunni
+        size = 10
+    }
+
+    artisans = {
+        culture = sart
+        religion = sunni
+        size = 90
+    }
+
+    soldiers = {
+        culture = sart
+        religion = sunni
+        size = 180
+    }
+	
+	farmers = {
+        culture = sart
+        religion = sunni
+        size = 1387
+    }
+	
+	bureaucrats = {
+		culture = tajik
+		religion = sunni
+		size = 10
+	}
+
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 15
+    }
+
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 65
+    }
+	
+	farmers = {
+        culture = tajik
+        religion = sunni
+        size = 65
+    }
+	
+	slaves = {
+        culture = persian
+        religion = shiite
+        size = 75
+    }
+
+	clergymen = {
+        culture = kipchak_minor
+        religion = sunni
+        size = 145
+    }
+	
+	artisans = {
+        culture = kipchak_minor
+        religion = sunni
+        size = 440
+    }
+	
+	soldiers = {
+        culture = kipchak_minor
+        religion = sunni
+        size = 1165
+    }
+	
+	farmers = {
+        culture = kipchak_minor
+        religion = sunni
+        size = 4845
+    }
+	
+	clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 95
+    }
+	
+	artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 785
+    }
+	
+	soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 2345
+    }
+	
+	farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 19420
+    }
+	
+	clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 10
+    }
+
+	artisans = {
+        culture = uighur
+        religion = sunni
+        size = 35
+    }
+	
+	farmers = {
+        culture = uighur
+        religion = sunni
+        size = 500
+    }
+}

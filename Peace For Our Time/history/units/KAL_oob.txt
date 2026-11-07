@@ -1,0 +1,30 @@
+leader = {
+    name = "Mehreb Khan"
+    date = 1830.1.1
+    type = land
+    personality = no_personality
+    background = attack_minus_1.1
+}
+
+army = {
+    name = "Army of Mehred Khan"
+    location = 1221
+    regiment = {
+        name = "1. Ghilzye"
+        type = cavalry
+        home = 1221
+    }
+
+    regiment = {
+        name = "2. Ghilzye"
+        type = cavalry
+        home = 1221
+    }
+
+    regiment = {
+        name = "3. Ghilzye"
+        type = cavalry
+        home = 1221
+    }
+
+}

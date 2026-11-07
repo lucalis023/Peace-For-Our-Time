@@ -1,0 +1,56 @@
+#Relations
+NEJ = {
+    value = -50
+}
+
+HAL = {
+    value = -50
+}
+
+NYE = {
+    value = -20
+}
+
+OMA = {
+    value = -50
+}
+
+IMO = {
+    value = -40
+}
+
+ENG = {
+    value = 15        #relation
+}
+
+MGH = {
+    value = 130        #relation
+}
+
+KHL = {
+    value = 130        #relation
+}
+
+leader = {
+    name = "Abd Allah ibn al-Mahri"
+    type = land
+    date = 1830.1.1
+    personality = no_personality
+    background = attack_2.1
+}
+
+army = {
+    name = "Sultan's Army"
+    location = 1175
+    regiment = {
+        name = "1. Brigade"
+        type = irregular
+        home = 1175
+    }
+
+    regiment = {
+        name = "2. Brigade"
+        type = irregular
+        home = 1175
+    }
+}
