@@ -1,7 +1,5 @@
-owner = SIC
-controller = SIC
-add_core = SIC
-add_core = SYC
+owner = ITA
+controller = ITA
 add_core = ITA
 trade_goods = sulphur
 life_rating = 34

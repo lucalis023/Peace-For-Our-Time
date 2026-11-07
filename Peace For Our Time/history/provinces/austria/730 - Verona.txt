@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = VEN
+owner = ITA
+controller = ITA
+add_core = ITA
 trade_goods = silk
 life_rating = 35

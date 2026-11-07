@@ -1,6 +1,5 @@
-owner = TUS
-controller = TUS
-add_core = TUS
+owner = ITA
+controller = ITA
 add_core = ITA
 trade_goods = fruit
 terrain = forest_hills
