@@ -1,10 +1,7 @@
-owner = BNB
-controller = BNB
-add_core = TUR
-add_core = JZR
-add_core = BNB
+owner = IRQ
+controller = IRQ
 add_core = KDS
-add_core = PER
+add_core = IRQ
 trade_goods = grain
 life_rating = 35
 terrain = hills

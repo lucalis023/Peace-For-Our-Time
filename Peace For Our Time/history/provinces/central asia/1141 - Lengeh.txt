@@ -1,8 +1,6 @@
-owner = QSM
-controller = QSM
+owner = PER
+controller = PER
 add_core = PER
-add_core = FRS
-add_core = QSM
 trade_goods = fish
 life_rating = 35
 terrain = semidesert

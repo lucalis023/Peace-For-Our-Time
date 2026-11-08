@@ -1,7 +1,5 @@
-owner = HES
-controller = HES
-add_core = HES
-add_core = NAS
+owner = GER
+controller = GER
 add_core = GER
 trade_goods = coal #https://de.wikipedia.org/wiki/Kraftwerk_W%C3%B6lfersheim
 life_rating = 40

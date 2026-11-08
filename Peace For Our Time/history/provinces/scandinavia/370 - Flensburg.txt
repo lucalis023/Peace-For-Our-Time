@@ -1,9 +1,6 @@
-owner = SWH
-controller = SWH
-add_core = DEN
-add_core = SCH
+owner = GER
+controller = GER
 add_core = GER
-add_core = SWH
 trade_goods = cattle
 life_rating = 35
 fort = 1

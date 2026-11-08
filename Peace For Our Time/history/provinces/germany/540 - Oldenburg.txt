@@ -1,6 +1,5 @@
-owner = OLD
-controller = OLD
-add_core = OLD
+owner = GER
+controller = GER
 add_core = GER
 trade_goods = fish
 life_rating = 40

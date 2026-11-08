@@ -1,6 +1,5 @@
-owner = WLD
-controller = WLD
-add_core = WLD
+owner = GER
+controller = GER
 add_core = GER
 trade_goods = iron
 life_rating = 40

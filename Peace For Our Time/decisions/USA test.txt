@@ -1,0 +1,18 @@
+political_decisions = {
+	TEST_des_USA_1 = {
+		potential = {
+			NOT = { has_country_flag = "test1" }
+			tag = USA
+		}
+
+		allow = {
+			war = no
+			ai = no
+		}
+
+		effect = {
+			set_country_flag = "test1"
+			change_flag = "USA/Flag_RoC"
+		}
+	}
+}

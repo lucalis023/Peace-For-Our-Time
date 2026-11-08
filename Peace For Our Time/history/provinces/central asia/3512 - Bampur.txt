@@ -1,7 +1,6 @@
-owner = BLC
-controller = BLC
-add_core = KAL
-add_core = BLC
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = wool
 terrain = semi_desert_mountains
 life_rating = 35

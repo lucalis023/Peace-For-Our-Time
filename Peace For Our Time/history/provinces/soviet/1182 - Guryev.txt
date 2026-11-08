@@ -1,5 +1,5 @@
-owner = BKY
-controller = BKY
+owner = RUS
+controller = RUS
 add_core = BKY
 trade_goods = opium
 life_rating = 35

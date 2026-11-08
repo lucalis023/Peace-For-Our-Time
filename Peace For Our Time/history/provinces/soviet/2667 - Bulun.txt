@@ -4,3 +4,5 @@ trade_goods = timber
 terrain = montane_tundra
 life_rating = 10
 colonial = 2
+owner = RUS
+controller = RUS

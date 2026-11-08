@@ -1,4 +1,6 @@
-add_core = JOR
+add_core = SYR
 trade_goods = wool
 life_rating = 5
 terrain = semidesert
+owner = TUR
+controller = TUR

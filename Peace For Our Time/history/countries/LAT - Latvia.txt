@@ -1,10 +1,6 @@
 capital = 354
-primary_culture = volga_german
-culture = north_german
-culture = latvian
-culture = russian
-religion = protestant
-government = colonial_company
+primary_culture = latvian
+government = democracy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.39

@@ -1,6 +1,5 @@
-owner = ATB
-controller = ATB
-add_core = ATB
+owner = GER
+controller = GER
 add_core = GER
 trade_goods = timber
 life_rating = 40

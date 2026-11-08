@@ -1,6 +1,5 @@
-owner = RDL
-controller = RDL
-add_core = RDL
+owner = PER
+controller = PER
 add_core = KDS
 add_core = PER
 trade_goods = wool

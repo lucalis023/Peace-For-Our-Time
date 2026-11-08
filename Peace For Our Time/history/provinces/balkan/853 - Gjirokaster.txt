@@ -1,7 +1,6 @@
-owner = GRE
-controller = GRE
+owner = ALB
+controller = ALB
 add_core = ALB
-add_core = GRE
 trade_goods = cattle
 life_rating = 35
 terrain = mountain

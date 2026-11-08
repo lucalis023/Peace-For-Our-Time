@@ -1,6 +1,6 @@
-owner = KHR
-controller = KHR
-add_core = KHR
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = fruit
 life_rating = 40
 terrain = dryhills

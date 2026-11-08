@@ -1,0 +1,6 @@
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+trade_goods = grain
+terrain = marsh
+life_rating = 35

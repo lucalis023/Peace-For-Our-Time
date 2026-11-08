@@ -1,11 +1,7 @@
-owner = BHT
-controller = BHT
+owner = TUR
+controller = TUR
 add_core = TUR
-add_core = BHT
 add_core = KDS
-add_core = ARM
-add_core = ASY
-add_core = JZR
 trade_goods = grain
 life_rating = 35
 terrain = mountain

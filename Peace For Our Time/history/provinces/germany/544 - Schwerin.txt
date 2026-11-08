@@ -1,6 +1,5 @@
-owner = MEC
-controller = MEC
-add_core = MEC
+owner = GER
+controller = GER
 add_core = GER
 trade_goods = grain
 life_rating = 40
