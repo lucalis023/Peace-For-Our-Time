@@ -1,7 +1,6 @@
-owner = XSO
-controller = XSO
+owner = MLI
+controller = MLI
 add_core = MLI
-add_core = XSO
 trade_goods = grain
 life_rating = 30
 terrain = plains

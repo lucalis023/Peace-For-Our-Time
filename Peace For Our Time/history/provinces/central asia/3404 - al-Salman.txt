@@ -1,4 +1,6 @@
-add_core = HAL
+add_core = IRQ
 trade_goods = wool
 life_rating = 20
 terrain = desert
+owner = IRQ
+controller = IRQ

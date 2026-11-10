@@ -1,7 +1,7 @@
-owner = TCA
-controller = TCA
+owner = RUS
+controller = RUS
 add_core = ARM
 add_core = AZB
-add_core = TCA
+add_core = RUS
 trade_goods = wool
 life_rating = 35

@@ -1,5 +1,4 @@
-owner = KOK
-controller = KOK
-add_core = KOK
+owner = RUS
+controller = RUS
 trade_goods = silk
 life_rating = 40

@@ -1,0 +1,5 @@
+owner = RUS
+controller = RUS
+trade_goods = fish
+terrain = steppe
+life_rating = 35

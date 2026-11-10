@@ -1,6 +1,5 @@
-owner = TKM
-controller = TKM
-add_core = KHI
+owner = RUS
+controller = RUS
 add_core = TKM
 terrain = semidesert
 trade_goods = opium

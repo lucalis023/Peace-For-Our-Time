@@ -1,6 +1,6 @@
-owner = KTH
-controller = KTH
-add_core = KTH
+owner = YEM
+controller = YEM
+add_core = YEM
 trade_goods = wool
 life_rating = 32
 terrain = dryhills

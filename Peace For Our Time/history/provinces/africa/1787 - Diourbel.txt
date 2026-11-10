@@ -1,6 +1,6 @@
-owner = TOG
-controller = TOG
-add_core = TOG
+owner = SNG
+controller = SNG
+add_core = SNG
 trade_goods = fish
 life_rating = 35
 terrain = savanna

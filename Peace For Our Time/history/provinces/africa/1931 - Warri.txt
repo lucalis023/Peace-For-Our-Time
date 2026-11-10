@@ -1,5 +1,5 @@
-owner = WRI
-controller = WRI
+owner = NGR
+controller = NGR
 add_core = WRI
 trade_goods = grain
 life_rating = 35

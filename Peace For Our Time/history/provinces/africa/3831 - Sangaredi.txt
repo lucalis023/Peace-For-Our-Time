@@ -1,0 +1,7 @@
+trade_goods = fruit
+life_rating = 10
+terrain = savanna
+colonial = 1
+owner = GNE
+controller = GNE
+add_core = GNE

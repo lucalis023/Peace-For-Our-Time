@@ -1,6 +1,6 @@
-owner = AKR
-controller = AKR
-add_core = AKR
+owner = MAD
+controller = MAD
+add_core = MAD
 terrain = jungle
 trade_goods = fish
 life_rating = 35

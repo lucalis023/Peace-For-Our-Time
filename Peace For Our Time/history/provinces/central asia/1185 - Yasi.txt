@@ -1,7 +1,6 @@
-owner = KSJ
-controller = KSJ
-add_core = KOK
-add_core = KSJ
+owner = RUS
+controller = RUS
+add_core = KAZ
 trade_goods = fruit
 life_rating = 30
 terrain = dryhills

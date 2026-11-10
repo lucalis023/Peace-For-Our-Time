@@ -1,2 +1,5 @@
 trade_goods = wool
 life_rating = 5
+owner = NEJ
+controller = NEJ
+add_core = NEJ

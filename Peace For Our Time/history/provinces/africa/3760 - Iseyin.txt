@@ -1,6 +1,6 @@
-owner = OYO
-controller = OYO
-add_core = OYO
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = cattle
 terrain = savanna
 life_rating = 35

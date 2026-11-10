@@ -1,6 +1,7 @@
-add_core = TUA
-add_core = DND
+add_core = MLI
 trade_goods = wool
 life_rating = 10
 terrain = steppe
 colonial = 1
+owner = MLI
+controller = MLI

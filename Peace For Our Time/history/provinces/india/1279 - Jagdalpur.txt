@@ -1,6 +1,5 @@
-owner = BAS
-controller = BAS
-add_core = BAS
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = timber
 life_rating = 32

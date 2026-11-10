@@ -1,7 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = HYD
-add_core = KRN
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = cotton
 life_rating = 32

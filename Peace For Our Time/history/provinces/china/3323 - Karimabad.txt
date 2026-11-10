@@ -1,0 +1,7 @@
+owner = EIC
+controller = EIC
+trade_goods = fruit
+life_rating = 32
+terrain = himalayan_mountains
+add_core = KAS
+add_core = HND

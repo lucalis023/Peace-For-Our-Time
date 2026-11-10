@@ -1,5 +1,5 @@
-owner = JTN
-controller = JTN
-add_core = JTN
+owner = BKF
+controller = BKF
+add_core = BKF
 trade_goods = fruit
 life_rating = 35

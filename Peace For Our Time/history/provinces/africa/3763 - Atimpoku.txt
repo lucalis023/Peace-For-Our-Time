@@ -1,6 +1,5 @@
-owner = FTE
-controller = FTE
-add_core = FTE
-add_core = ASH
+owner = GHN
+controller = GHN
+add_core = GHN
 trade_goods = grain
 life_rating = 35

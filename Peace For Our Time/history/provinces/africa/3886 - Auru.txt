@@ -1,6 +1,7 @@
-add_core = XSO
-add_core = KAA
+add_core = MLI
 trade_goods = cattle
 terrain = steppe
 life_rating = 10
 colonial = 1
+owner = MLI
+controller = MLI

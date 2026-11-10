@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = TKM
+trade_goods = fish
+terrain = semidesert
+life_rating = 35

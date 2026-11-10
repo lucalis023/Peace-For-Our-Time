@@ -1,6 +1,5 @@
-owner = QSM
-controller = QSM
-add_core = QSM
+owner = ABU
+controller = ABU
 add_core = ABU
 trade_goods = fish
 life_rating = 31

@@ -1,4 +1,6 @@
 trade_goods = wool
-add_core = TUA
+add_core = NIG
 life_rating = 10
 colonial = 1
+owner = NIG
+controller = NIG

@@ -1,6 +1,6 @@
-owner = GHN
-controller = GHN
-add_core = GHN
+owner = TOG
+controller = TOG
+add_core = TOG
 trade_goods = wool
 life_rating = 35
 terrain = savanna

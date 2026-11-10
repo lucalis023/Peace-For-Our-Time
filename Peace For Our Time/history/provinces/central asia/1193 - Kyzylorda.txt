@@ -1,6 +1,5 @@
-owner = KOK
-controller = KOK
-add_core = KOK
+owner = RUS
+controller = RUS
 add_core = KAZ
 trade_goods = coal
 life_rating = 30

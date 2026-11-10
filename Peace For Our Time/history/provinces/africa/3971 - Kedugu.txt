@@ -1,6 +1,7 @@
-add_core = MOS
-add_core = GWR
+add_core = BKF
 trade_goods = fruit
 life_rating = 10
 terrain = savanna
 colonial = 1
+owner = BKF
+controller = BKF

@@ -1,4 +1,6 @@
-add_core = DGO
+add_core = TOG
 trade_goods = cattle
 life_rating = 10
 terrain = savanna
+owner = TOG
+controller = TOG

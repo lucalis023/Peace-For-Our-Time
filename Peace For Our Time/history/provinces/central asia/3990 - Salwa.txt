@@ -1,7 +1,6 @@
-owner = MLW
-controller = MLW
+owner = NEJ
+controller = NEJ
 add_core = NEJ
-add_core = MLW
 trade_goods = fruit
 life_rating = 35
 terrain = coastal_desert

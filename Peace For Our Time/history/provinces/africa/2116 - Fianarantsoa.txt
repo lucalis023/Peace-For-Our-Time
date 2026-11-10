@@ -3,3 +3,5 @@ terrain = montane_forest
 trade_goods = silk
 life_rating = 10
 colonial = 1
+owner = MAD
+controller = MAD

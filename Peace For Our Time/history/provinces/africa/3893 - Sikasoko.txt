@@ -1,6 +1,6 @@
-owner = GYM
-controller = GYM
-add_core = GYM
+owner = GHN
+controller = GHN
+add_core = GHN
 trade_goods = fruit
 life_rating = 35
 terrain = jungle

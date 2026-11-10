@@ -1,6 +1,6 @@
-owner = YEK
-controller = YEK
-add_core = YEK
+owner = YEM
+controller = YEM
+add_core = YEM
 trade_goods = opium
 life_rating = 32
 terrain = dryhills

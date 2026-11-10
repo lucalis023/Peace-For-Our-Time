@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = KYR
+trade_goods = cattle
+life_rating = 30
+terrain = semi_desert_mountains

@@ -1,6 +1,6 @@
-owner = DAM
-controller = DAM
-add_core = DAM
+owner = NIG
+controller = NIG
+add_core = NIG
 trade_goods = wool
 life_rating = 32
 terrain = steppe

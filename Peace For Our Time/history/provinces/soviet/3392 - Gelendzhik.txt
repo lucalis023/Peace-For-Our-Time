@@ -1,7 +1,7 @@
-owner = CIR
-controller = CIR
+owner = RUS
+controller = RUS
 add_core = DON
-add_core = CIR
+add_core = RUS
 trade_goods = grain
 fort = 2
 life_rating = 35

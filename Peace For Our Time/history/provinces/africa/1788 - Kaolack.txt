@@ -1,5 +1,5 @@
-owner = GMB
-controller = GMB
+owner = SNG
+controller = SNG
 add_core = GMB
 trade_goods = fruit
 life_rating = 35

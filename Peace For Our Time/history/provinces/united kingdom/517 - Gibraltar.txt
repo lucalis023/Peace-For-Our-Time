@@ -1,6 +1,5 @@
 owner = ENG
 controller = ENG
-add_core = ENG
 add_core = SPA
 trade_goods = fish
 life_rating = 35

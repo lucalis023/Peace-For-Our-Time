@@ -1,6 +1,5 @@
-add_core = XIN
-add_core = KOK
-add_core = BDK
 trade_goods = wool
 life_rating = 5
 terrain = himalayan_mountains
+owner = RUS
+controller = RUS

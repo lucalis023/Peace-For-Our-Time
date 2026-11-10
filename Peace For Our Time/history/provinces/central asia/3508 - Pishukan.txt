@@ -1,7 +1,5 @@
-owner = OMA
-controller = OMA
-add_core = MAK
-add_core = KAL
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = fish
 life_rating = 35

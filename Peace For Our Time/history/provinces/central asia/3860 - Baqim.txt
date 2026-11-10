@@ -1,8 +1,5 @@
-owner = CYR
-controller = CYR
-add_core = CYR
-add_core = ASI
-add_core = NYE
+owner = NYE
+controller = NYE
 trade_goods = coffee
 life_rating = 32
 terrain = semi_desert_mountains

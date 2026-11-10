@@ -1,5 +1,7 @@
 trade_goods = wool
-add_core = TUA
+add_core = MLI
 life_rating = 10
 colonial = 1
 terrain = desert
+owner = MLI
+controller = MLI

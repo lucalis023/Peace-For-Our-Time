@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 10
+terrain = jungle_mountains
+owner = CMR
+controller = CMR
+add_core = CMR

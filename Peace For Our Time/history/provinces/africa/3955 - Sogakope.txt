@@ -1,5 +1,6 @@
-add_core = ASH
-add_core = FTE
+add_core = GHN
 trade_goods = grain
 terrain = marsh
 life_rating = 10
+owner = GHN
+controller = GHN

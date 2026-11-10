@@ -1,8 +1,7 @@
-owner = KSJ
-controller = KSJ
+owner = RUS
+controller = RUS
 add_core = XIN
-add_core = KSJ
-add_core = KOK
+add_core = KAZ
 trade_goods = grain
 life_rating = 32
 terrain = dryhills

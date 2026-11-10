@@ -1,5 +1,5 @@
-owner = CMS
-controller = CMS
+owner = FRA
+controller = FRA
 add_core = CMS
 trade_goods = grain
 life_rating = 30

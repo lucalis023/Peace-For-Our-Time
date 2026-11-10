@@ -1,0 +1,6 @@
+add_core = TOG
+trade_goods = fruit
+life_rating = 10
+terrain = savanna
+owner = TOG
+controller = TOG

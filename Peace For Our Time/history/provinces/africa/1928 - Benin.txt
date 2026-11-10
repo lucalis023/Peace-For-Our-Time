@@ -1,6 +1,6 @@
-owner = BEN
-controller = BEN
-add_core = BEN
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = cattle
 life_rating = 35
 fort = 1

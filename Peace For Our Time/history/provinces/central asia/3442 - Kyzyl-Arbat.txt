@@ -1,0 +1,6 @@
+add_core = TKM
+trade_goods = cattle
+life_rating = 20
+terrain = desert
+owner = RUS
+controller = RUS

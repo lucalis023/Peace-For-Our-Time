@@ -1,6 +1,6 @@
-owner = IDM
-controller = IDM
-add_core = IDM
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = wool
 life_rating = 35
 terrain = savanna

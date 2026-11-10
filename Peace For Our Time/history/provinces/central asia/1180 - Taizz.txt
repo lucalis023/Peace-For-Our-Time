@@ -1,5 +1,5 @@
-owner = NJN
-controller = NJN
-add_core = NJN
+owner = NYE
+controller = NYE
+add_core = NYE
 trade_goods = fruit
 life_rating = 20

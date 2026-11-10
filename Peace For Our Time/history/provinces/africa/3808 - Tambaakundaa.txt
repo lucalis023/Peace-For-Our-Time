@@ -1,7 +1,6 @@
-owner = WOL
-controller = WOL
-add_core = WOL
-add_core = BDU
+owner = SNG
+controller = SNG
+add_core = SNG
 trade_goods = wool
 life_rating = 35
 terrain = plains

@@ -1,5 +1,5 @@
-owner = SIK
-controller = SIK
+owner = EIC
+controller = EIC
 add_core = SIK
 add_core = HND
 trade_goods = timber

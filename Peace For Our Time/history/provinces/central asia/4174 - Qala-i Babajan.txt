@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = KAZ
+terrain = marsh
+trade_goods = fish
+life_rating = 32

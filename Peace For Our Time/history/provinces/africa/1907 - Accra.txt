@@ -1,8 +1,7 @@
-owner = DEN
-controller = DEN
+owner = GHN
+controller = GHN
 colonial = 2
-add_core = ASH
-add_core = FTE
+add_core = GHN
 trade_goods = fish
 life_rating = 35
 naval_base = 1

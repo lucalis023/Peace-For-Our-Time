@@ -1,6 +1,5 @@
-owner = HYD
-controller = HYD
-add_core = HYD
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = silk
 life_rating = 32

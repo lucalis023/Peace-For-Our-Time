@@ -1,4 +1,6 @@
-add_core = BTE
+add_core = GNE
 trade_goods = fruit
 life_rating = 10
 terrain = jungle_mountains
+owner = GNE
+controller = GNE

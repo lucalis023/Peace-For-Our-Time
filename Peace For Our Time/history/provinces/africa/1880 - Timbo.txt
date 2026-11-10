@@ -1,5 +1,6 @@
 add_core = GNE
-add_core = GBU
 trade_goods = fish
 life_rating = 10
 terrain = savanna
+owner = GNE
+controller = GNE

@@ -1,8 +1,5 @@
-owner = KND
-controller = KND
-add_core = KHN
-add_core = KND
-add_core = KAL
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = grain
 terrain = semi_desert_mountains

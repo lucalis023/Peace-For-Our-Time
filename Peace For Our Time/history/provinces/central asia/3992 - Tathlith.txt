@@ -1,4 +1,5 @@
 add_core = NEJ
-add_core = ASI
 trade_goods = wool
 life_rating = 10
+owner = NEJ
+controller = NEJ

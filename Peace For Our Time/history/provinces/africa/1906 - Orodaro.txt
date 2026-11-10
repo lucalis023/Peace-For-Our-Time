@@ -1,6 +1,6 @@
-owner = KDG
-controller = KDG
-add_core = KDG
+owner = BKF
+controller = BKF
+add_core = BKF
 trade_goods = fruit
 life_rating = 35
 terrain = savanna

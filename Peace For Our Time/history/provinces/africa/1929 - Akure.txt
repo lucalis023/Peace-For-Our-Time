@@ -1,6 +1,5 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = EFN
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = cotton
 life_rating = 35

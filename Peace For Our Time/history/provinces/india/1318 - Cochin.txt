@@ -1,7 +1,6 @@
-owner = TRA
-controller = TRA
+owner = EIC
+controller = EIC
 add_core = HND
-add_core = TRA
 trade_goods = timber
 life_rating = 32
 terrain = jungle_hills

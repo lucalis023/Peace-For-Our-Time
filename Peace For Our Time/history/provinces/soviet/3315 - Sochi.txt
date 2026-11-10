@@ -1,6 +1,6 @@
-owner = CIR
-controller = CIR
-add_core = CIR
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = DON
 trade_goods = fish
 fort = 2

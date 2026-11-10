@@ -1,6 +1,6 @@
-owner = HRT
-controller = HRT
-add_core = HRT
+owner = AFG
+controller = AFG
+add_core = AFG
 trade_goods = grain
 life_rating = 30
 terrain = dryhills

@@ -1,5 +1,7 @@
 trade_goods = fruit
-add_core = KNG
+add_core = IVC
 life_rating = 10
 colonial = 1
 terrain = hills
+owner = IVC
+controller = IVC

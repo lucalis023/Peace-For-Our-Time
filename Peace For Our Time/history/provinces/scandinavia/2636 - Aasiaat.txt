@@ -1,6 +1,7 @@
 add_core = GRN
+add_core = DEN
 trade_goods = fish
 life_rating = 1
 terrain = greenland
-owner = GRN
-controller = GRN
+owner = DEN
+controller = DEN

@@ -1,0 +1,6 @@
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+trade_goods = coffee
+terrain = semi_desert_mountains
+life_rating = 32

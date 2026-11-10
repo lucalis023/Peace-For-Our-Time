@@ -3,3 +3,5 @@ trade_goods = grain
 life_rating = 10
 terrain = jungle
 colonial = 1
+owner = GBU
+controller = GBU

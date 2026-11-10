@@ -1,5 +1,6 @@
-add_core = BGU
-add_core = BKF
+add_core = DAH
 trade_goods = wool
 life_rating = 10
 terrain = savanna
+owner = DAH
+controller = DAH

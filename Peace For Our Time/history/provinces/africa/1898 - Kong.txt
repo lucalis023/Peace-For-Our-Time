@@ -1,7 +1,6 @@
-owner = GWR
-controller = GWR
-add_core = GWR
-add_core = KNG
+owner = IVC
+controller = IVC
+add_core = IVC
 trade_goods = cattle
 life_rating = 35
 terrain = savanna

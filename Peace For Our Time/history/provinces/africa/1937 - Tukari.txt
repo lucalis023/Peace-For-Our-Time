@@ -1,4 +1,6 @@
-add_core = KWR
+add_core = NGR
 trade_goods = grain
 life_rating = 10
 terrain = jungle
+owner = NGR
+controller = NGR

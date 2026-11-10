@@ -1,6 +1,6 @@
-owner = BTE
-controller = BTE
-add_core = BTE
+owner = GNE
+controller = GNE
+add_core = GNE
 trade_goods = grain
 life_rating = 35
 terrain = savanna

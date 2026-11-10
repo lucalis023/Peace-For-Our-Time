@@ -1,6 +1,6 @@
-owner = MHR
-controller = MHR
-add_core = MHR
+owner = YEM
+controller = YEM
+add_core = YEM
 trade_goods = fish
 life_rating = 20
 terrain = small_island

@@ -1,7 +1,6 @@
-owner = ZRU
-controller = ZRU
-add_core = ZRU
-add_core = KEB
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = grain
 life_rating = 35
 terrain = savanna

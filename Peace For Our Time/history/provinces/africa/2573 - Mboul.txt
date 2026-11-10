@@ -1,6 +1,6 @@
-owner = GMB
-controller = GMB
-add_core = GMB
+owner = SNG
+controller = SNG
+add_core = SNG
 trade_goods = cattle
 life_rating = 35
 terrain = savanna

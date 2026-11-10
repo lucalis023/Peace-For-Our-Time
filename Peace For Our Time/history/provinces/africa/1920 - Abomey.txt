@@ -2,3 +2,5 @@ add_core = DAH
 trade_goods = grain
 life_rating = 10
 terrain = savanna
+owner = DAH
+controller = DAH

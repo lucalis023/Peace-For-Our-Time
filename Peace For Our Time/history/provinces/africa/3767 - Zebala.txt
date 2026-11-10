@@ -1,7 +1,6 @@
-owner = KDG
-controller = KDG
-add_core = KDG
-add_core = SEG
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = fruit
 terrain = savanna
 life_rating = 35

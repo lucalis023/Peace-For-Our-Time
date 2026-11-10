@@ -1,5 +1,5 @@
-owner = KAS
-controller = KAS
+owner = EIC
+controller = EIC
 add_core = KAS
 add_core = HND
 trade_goods = timber

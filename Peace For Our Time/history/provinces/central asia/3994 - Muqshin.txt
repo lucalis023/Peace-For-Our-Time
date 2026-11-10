@@ -1,0 +1,5 @@
+trade_goods = wool
+life_rating = 5
+owner = OMA
+controller = OMA
+add_core = OMA

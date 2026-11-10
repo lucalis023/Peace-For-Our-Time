@@ -1,7 +1,6 @@
-owner = KBO
-controller = KBO
-add_core = DAM
-add_core = KBO
+owner = NIG
+controller = NIG
+add_core = NIG
 trade_goods = cattle
 life_rating = 32
 terrain = steppe

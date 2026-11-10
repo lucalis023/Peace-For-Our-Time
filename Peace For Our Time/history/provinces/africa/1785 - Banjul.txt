@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = GBU
+owner = GMB
+controller = GMB
 add_core = GMB
 trade_goods = sugar
 terrain = jungle

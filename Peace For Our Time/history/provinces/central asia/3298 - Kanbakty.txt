@@ -1,0 +1,6 @@
+trade_goods = wool
+life_rating = 15
+terrain = desert
+colonial = 1
+owner = RUS
+controller = RUS

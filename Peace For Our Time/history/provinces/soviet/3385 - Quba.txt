@@ -1,7 +1,6 @@
-owner = DAG
-controller = DAG
+owner = RUS
+controller = RUS
 add_core = AZB
-add_core = DAG
 trade_goods = fruit
 fort = 2
 life_rating = 35

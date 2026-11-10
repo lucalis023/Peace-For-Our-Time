@@ -1,6 +1,6 @@
-owner = RCH
-controller = RCH
-add_core = RCH
+owner = YEM
+controller = YEM
+add_core = YEM
 trade_goods = coffee
 life_rating = 32
 terrain = dryhills

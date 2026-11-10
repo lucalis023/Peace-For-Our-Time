@@ -1,6 +1,6 @@
-owner = KUN
-controller = KUN
-add_core = KUN
+owner = AFG
+controller = AFG
+add_core = AFG
 trade_goods = cattle
 life_rating = 35
 terrain = dryhills

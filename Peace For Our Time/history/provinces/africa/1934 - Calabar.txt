@@ -1,6 +1,6 @@
-owner = ADW
-controller = ADW
-add_core = ADW
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = fruit
 life_rating = 35
 terrain = savanna

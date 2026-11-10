@@ -1,6 +1,6 @@
-owner = BGU
-controller = BGU
-add_core = BGU
+owner = DAH
+controller = DAH
+add_core = DAH
 trade_goods = grain
 life_rating = 35
 terrain = savanna

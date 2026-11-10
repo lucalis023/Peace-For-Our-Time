@@ -1,0 +1,6 @@
+owner = EIC
+controller = EIC
+add_core = HND
+trade_goods = cotton
+terrain = semi_desert_mountains
+life_rating = 30

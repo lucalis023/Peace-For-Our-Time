@@ -1,6 +1,5 @@
-owner = KND
-controller = KND
-add_core = KND
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = wool
 life_rating = 25

@@ -1,6 +1,5 @@
-owner = KUN
-controller = KUN
-add_core = KUN
+owner = RUS
+controller = RUS
 trade_goods = sulphur #ANTIMONY MINES IN BALJOVAN
 life_rating = 34
 terrain = dryhills

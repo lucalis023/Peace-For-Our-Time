@@ -1,5 +1,4 @@
-owner = KHI
-controller = KHI
-add_core = KHI
+owner = RUS
+controller = RUS
 trade_goods = slave_trading
 life_rating = 40

@@ -1,4 +1,6 @@
-add_core = GBU
 trade_goods = grain
 life_rating = 10
 terrain = savanna
+owner = GNE
+controller = GNE
+add_core = GNE
