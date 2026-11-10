@@ -1,3 +1,5 @@
 trade_goods = sulphur
 life_rating = 15
 terrain = small_island
+owner = FRA
+controller = FRA

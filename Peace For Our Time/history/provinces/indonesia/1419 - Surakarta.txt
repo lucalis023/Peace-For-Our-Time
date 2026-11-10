@@ -1,6 +1,6 @@
-owner = JAV
-controller = NET
-add_core = JAV
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = sugar
 life_rating = 35
 terrain = jungle_hills

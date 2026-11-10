@@ -1,0 +1,6 @@
+trade_goods = fruit
+life_rating = 10
+terrain = small_island
+owner = TMT
+controller = TMT
+add_core = TMT

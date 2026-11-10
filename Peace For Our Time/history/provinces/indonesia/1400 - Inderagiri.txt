@@ -1,5 +1,5 @@
-owner = RIA
-controller = RIA
-add_core = RIA
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = grain
 life_rating = 31

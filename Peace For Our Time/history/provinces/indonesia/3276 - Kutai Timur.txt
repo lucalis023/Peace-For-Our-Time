@@ -1,6 +1,6 @@
-owner = KTI
-controller = KTI
-add_core = KTI
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = tropical_wood
 life_rating = 32
 terrain = jungle_hills

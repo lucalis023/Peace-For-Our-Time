@@ -2,3 +2,4 @@
 controller = ARG
 add_core = ARG
 trade_goods = fruit
+owner = ARG

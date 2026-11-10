@@ -1,6 +1,6 @@
-owner = BGN
-controller = BGN
-add_core = BGN
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = fruit
 life_rating = 31
 terrain = jungle_hills

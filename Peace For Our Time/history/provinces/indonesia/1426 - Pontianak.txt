@@ -1,5 +1,5 @@
-owner = PTK
-controller = PTK
-add_core = PTK
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = grain
 life_rating = 34

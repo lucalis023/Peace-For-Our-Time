@@ -1,7 +1,6 @@
-owner = LAN
-controller = LAN
-add_core = LAN
-add_core = PTK
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = gold
 life_rating = 32
 terrain = jungle_hills

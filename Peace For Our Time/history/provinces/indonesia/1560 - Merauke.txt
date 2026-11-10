@@ -1,5 +1,7 @@
-add_core = MAL
+add_core = INO
 trade_goods = fish
 life_rating = 10
 colonial = 1
 terrain = jungle_hills
+owner = INO
+controller = INO

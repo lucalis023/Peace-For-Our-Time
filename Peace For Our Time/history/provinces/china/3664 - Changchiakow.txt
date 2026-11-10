@@ -1,0 +1,7 @@
+owner = HNN
+controller = HNN
+add_core = QNG
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = hills

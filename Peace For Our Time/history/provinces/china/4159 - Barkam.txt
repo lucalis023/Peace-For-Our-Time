@@ -4,5 +4,5 @@ add_core = SZC
 trade_goods = grain
 life_rating = 5
 terrain = montane_forest
-owner = QNG
-controller = QNG
+owner = SZC
+controller = SZC

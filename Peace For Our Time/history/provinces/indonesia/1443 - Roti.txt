@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = TMR
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = timber
 life_rating = 31
 colonial = 2

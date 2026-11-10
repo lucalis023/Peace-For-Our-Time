@@ -1,7 +1,6 @@
-owner = PAT
-controller = PAT
-add_core = PAT
-add_core = SIA
+owner = MLY
+controller = MLY
+add_core = MLY
 trade_goods = gold
 terrain = jungle_hills
 life_rating = 35

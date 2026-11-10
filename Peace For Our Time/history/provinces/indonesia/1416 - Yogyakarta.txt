@@ -1,6 +1,6 @@
-owner = JAV
-controller = JAV
-add_core = JAV
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = sulphur
 life_rating = 35
 terrain = jungle_mountains

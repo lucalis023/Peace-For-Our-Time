@@ -1,5 +1,5 @@
-owner = MAL
-controller = MAL
-add_core = MAL
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = fish
 life_rating = 31

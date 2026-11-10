@@ -1,4 +1,5 @@
-add_core = KTI
-add_core = SUL
+add_core = INO
 trade_goods = timber
 life_rating = 20
+owner = INO
+controller = INO

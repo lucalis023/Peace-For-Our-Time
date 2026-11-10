@@ -1,6 +1,6 @@
-owner = SBS
-controller = SBS
-add_core = SBS
+owner = INO
+controller = INO
+add_core = INO
 fort = 1
 trade_goods = timber
 life_rating = 32

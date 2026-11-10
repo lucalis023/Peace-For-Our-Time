@@ -1,8 +1,6 @@
-owner = NSB
-controller = NSB
-add_core = SLG
-add_core = JOH
-add_core = NSB
+owner = MLY
+controller = MLY
+add_core = MLY
 trade_goods = iron #https://en.wikipedia.org/wiki/British_Malaya#Selangor
 life_rating = 35
 terrain = jungle_farmland

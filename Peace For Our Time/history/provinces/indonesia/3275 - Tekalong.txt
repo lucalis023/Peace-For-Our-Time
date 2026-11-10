@@ -1,0 +1,7 @@
+add_core = INO
+trade_goods = tropical_wood
+life_rating = 10
+colonial = 1
+terrain = jungle_mountains
+owner = INO
+controller = INO

@@ -1,5 +1,7 @@
-add_core = MAL
+add_core = PPG
 trade_goods = tropical_wood
 life_rating = 10
 colonial = 1
 terrain = jungle_hills
+owner = PPG
+controller = PPG

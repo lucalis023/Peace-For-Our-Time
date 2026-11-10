@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = DJA
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = iron
 life_rating = 32
 terrain = jungle_hills

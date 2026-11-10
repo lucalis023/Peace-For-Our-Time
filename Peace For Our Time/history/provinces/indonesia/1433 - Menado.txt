@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
-add_core = SLW
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = dye
 life_rating = 32

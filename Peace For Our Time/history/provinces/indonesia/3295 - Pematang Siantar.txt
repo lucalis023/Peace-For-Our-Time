@@ -1,0 +1,6 @@
+add_core = INO
+trade_goods = sulphur
+life_rating = 30
+terrain = jungle_hills
+owner = INO
+controller = INO

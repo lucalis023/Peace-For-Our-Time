@@ -1,7 +1,6 @@
 owner = RUS
 controller = RUS
 add_core = KSJ
-add_core = XIN
 trade_goods = sulphur
 life_rating = 32
 terrain = semi_desert_mountains

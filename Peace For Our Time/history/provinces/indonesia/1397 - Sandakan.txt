@@ -1,5 +1,6 @@
-add_core = SUL
-add_core = SBH
+add_core = SWK
 trade_goods = grain
 terrain = jungle_farmland
 life_rating = 5
+owner = SWK
+controller = SWK
