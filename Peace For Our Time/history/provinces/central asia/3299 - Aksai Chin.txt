@@ -1,0 +1,6 @@
+add_core = TIB
+trade_goods = wool
+life_rating = 5
+terrain = himalayan_mountains
+owner = TIB
+controller = TIB

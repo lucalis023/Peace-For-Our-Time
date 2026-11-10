@@ -3,3 +3,5 @@ terrain = savanna
 trade_goods = tropical_wood
 life_rating = 15
 colonial = 2
+owner = SUD
+controller = SUD

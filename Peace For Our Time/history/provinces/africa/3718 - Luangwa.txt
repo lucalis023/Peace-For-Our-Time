@@ -1,4 +1,6 @@
-add_core = FRN
+add_core = ZAM
 terrain = hills
 trade_goods = iron
 life_rating = 10
+owner = ZAM
+controller = ZAM

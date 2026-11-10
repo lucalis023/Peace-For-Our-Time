@@ -1,4 +1,6 @@
-add_core = HHE
+add_core = TNZ
 terrain = mountain
 trade_goods = grain
 life_rating = 10
+owner = TNZ
+controller = TNZ

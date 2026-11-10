@@ -1,2 +1,5 @@
 trade_goods = wool
 life_rating = 10
+owner = RGA
+controller = RGA
+add_core = RGA

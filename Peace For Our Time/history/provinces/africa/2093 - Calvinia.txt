@@ -2,3 +2,6 @@ trade_goods = wool
 life_rating = 15
 terrain = semidesert
 colonial = 1
+owner = SAF
+controller = SAF
+add_core = SAF

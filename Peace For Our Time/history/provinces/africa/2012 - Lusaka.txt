@@ -1,6 +1,6 @@
-owner = KUB
-controller = KUB
-add_core = KUB
+owner = ANG
+controller = ANG
+add_core = ANG
 terrain = savanna
 trade_goods = fruit
 life_rating = 30

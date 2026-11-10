@@ -1,5 +1,6 @@
 add_core = LOA
-add_core = MNG
 trade_goods = tropical_wood
 terrain = jungle
 life_rating = 10
+owner = LOA
+controller = LOA

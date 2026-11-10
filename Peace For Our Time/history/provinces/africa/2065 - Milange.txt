@@ -1,6 +1,7 @@
-add_core = AGC
-add_core = MRW
+add_core = MOZ
 trade_goods = grain
 life_rating = 10
 terrain = jungle_hills
 colonial = 1
+owner = MOZ
+controller = MOZ

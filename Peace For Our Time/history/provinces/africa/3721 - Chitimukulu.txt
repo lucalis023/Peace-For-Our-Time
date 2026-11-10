@@ -1,6 +1,6 @@
-owner = BMB
-controller = BMB
-add_core = BMB
+owner = ZAM
+controller = ZAM
+add_core = ZAM
 trade_goods = grain
 life_rating = 30
 terrain = hills

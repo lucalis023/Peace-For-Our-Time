@@ -1,6 +1,6 @@
-owner = ADW
-controller = ADW
-add_core = ADW
+owner = CMR
+controller = CMR
+add_core = CMR
 trade_goods = iron
 life_rating = 35
 terrain = savanna

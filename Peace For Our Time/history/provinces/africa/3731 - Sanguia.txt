@@ -1,6 +1,6 @@
-owner = DJK
-controller = DJK
-add_core = DJK
+owner = ANG
+controller = ANG
+add_core = ANG
 terrain = savanna
 trade_goods = iron
 life_rating = 30

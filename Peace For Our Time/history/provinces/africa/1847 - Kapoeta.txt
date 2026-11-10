@@ -1,5 +1,7 @@
-add_core = SHK
+add_core = SUD
 trade_goods = wool
 life_rating = 15
 terrain = savanna
 colonial = 2
+owner = SUD
+controller = SUD

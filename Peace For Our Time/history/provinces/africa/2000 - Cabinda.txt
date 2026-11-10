@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = CNG
+owner = ANG
+controller = ANG
+add_core = ANG
 trade_goods = fruit
 life_rating = 35
 terrain = jungle_farmland

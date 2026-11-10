@@ -1,4 +1,5 @@
-add_core = KPM
 add_core = LIB
 trade_goods = grain
 life_rating = 10
+owner = LIB
+controller = LIB

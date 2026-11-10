@@ -3,3 +3,5 @@ trade_goods = wool
 life_rating = 10
 colonial = 1
 terrain = desert
+owner = TRZ
+controller = TRZ

@@ -2,3 +2,5 @@ add_core = KNY
 trade_goods = grain
 life_rating = 10
 terrain = steppe
+owner = KNY
+controller = KNY

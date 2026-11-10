@@ -1,0 +1,5 @@
+add_core = RGA
+trade_goods = wool
+life_rating = 10
+owner = RGA
+controller = RGA

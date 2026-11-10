@@ -1,5 +1,7 @@
-add_core = HHE
+add_core = TNZ
 trade_goods = grain
 terrain = jungle_hills
 life_rating = 10
 colonial = 1
+owner = TNZ
+controller = TNZ

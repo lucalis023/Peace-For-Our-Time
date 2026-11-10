@@ -1,7 +1,6 @@
-owner = WTU
-controller = WTU
-add_core = WTU
-add_core = GEL
+owner = KNY
+controller = KNY
+add_core = KNY
 trade_goods = iron
 terrain = savanna
 life_rating = 35

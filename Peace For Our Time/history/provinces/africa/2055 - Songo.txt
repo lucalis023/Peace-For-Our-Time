@@ -1,7 +1,5 @@
-owner = POR
-controller = POR
-add_core = FRN
-add_core = SHO
+owner = MOZ
+controller = MOZ
 add_core = MOZ
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,5 @@
-owner = TAQ
-controller = TAQ
-add_core = TAQ
+owner = SUD
+controller = SUD
 add_core = SUD
 trade_goods = cattle
 terrain = hills

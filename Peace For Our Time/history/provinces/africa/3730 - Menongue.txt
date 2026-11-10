@@ -1,6 +1,6 @@
-owner = MBN
-controller = MBN
-add_core = MBN
+owner = ANG
+controller = ANG
+add_core = ANG
 terrain = hills
 trade_goods = cattle
 life_rating = 30

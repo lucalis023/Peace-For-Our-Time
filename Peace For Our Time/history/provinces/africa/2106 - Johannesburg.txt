@@ -1,4 +1,6 @@
-add_core = MAT
+add_core = SAF
 trade_goods = wool
 life_rating = 10
 terrain = savanna
+owner = SAF
+controller = SAF

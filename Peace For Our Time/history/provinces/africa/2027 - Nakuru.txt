@@ -1,6 +1,5 @@
 owner = KNY
-controller = NYM
-add_core = NYM
+controller = KNY
 add_core = KNY
 trade_goods = cattle
 terrain = mountain

@@ -3,3 +3,5 @@ trade_goods = grain
 terrain = mountain
 life_rating = 10
 colonial = 1
+owner = KNY
+controller = KNY

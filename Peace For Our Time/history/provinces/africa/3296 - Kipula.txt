@@ -1,0 +1,6 @@
+add_core = CNG
+terrain = savanna
+trade_goods = iron
+life_rating = 10
+owner = CNG
+controller = CNG

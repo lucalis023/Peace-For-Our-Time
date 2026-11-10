@@ -1,6 +1,6 @@
-owner = MRW
-controller = MRW
-add_core = MRW
+owner = ZAM
+controller = ZAM
+add_core = ZAM
 terrain = hills
 trade_goods = cattle
 life_rating = 30

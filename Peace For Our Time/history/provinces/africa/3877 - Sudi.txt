@@ -1,0 +1,5 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+trade_goods = fruit
+life_rating = 35

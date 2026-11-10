@@ -1,4 +1,6 @@
-add_core = SUD
+add_core = EGY
 trade_goods = fruit
 terrain = dryhills
 life_rating = 10
+owner = EGY
+controller = EGY

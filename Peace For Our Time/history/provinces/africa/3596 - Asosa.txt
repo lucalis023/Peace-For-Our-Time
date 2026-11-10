@@ -1,7 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = SUD
-add_core = GJM
+owner = ETH
+controller = ETH
 life_rating = 30
 trade_goods = wool
 terrain = forest_hills

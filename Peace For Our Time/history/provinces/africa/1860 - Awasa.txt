@@ -1,5 +1,6 @@
-add_core = SHW
-add_core = ORM
+add_core = ETH
 trade_goods = fruit
 life_rating = 10
 terrain = forest_hills
+owner = ETH
+controller = ETH

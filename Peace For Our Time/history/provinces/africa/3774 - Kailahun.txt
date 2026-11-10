@@ -1,5 +1,6 @@
-add_core = KPM
-add_core = LIB
+add_core = SLE
 trade_goods = cotton
 life_rating = 10
 terrain = jungle
+owner = SLE
+controller = SLE

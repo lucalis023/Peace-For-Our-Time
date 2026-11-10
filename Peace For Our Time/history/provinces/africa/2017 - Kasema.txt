@@ -1,7 +1,6 @@
-owner = KZB
-controller = KZB
-add_core = KZB
-add_core = BMB
+owner = ZAM
+controller = ZAM
+add_core = ZAM
 trade_goods = cattle
 life_rating = 30
 terrain = savanna

@@ -1,4 +1,6 @@
-add_core = ORM
+add_core = ETH
 life_rating = 15
 trade_goods = coffee
 terrain = montane_forest
+owner = ETH
+controller = ETH

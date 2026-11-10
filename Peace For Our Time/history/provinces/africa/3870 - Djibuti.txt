@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+trade_goods = cattle
+life_rating = 30
+terrain = coastal_desert
+colonial = 1

@@ -2,3 +2,5 @@ add_core = LIB
 trade_goods = fruit
 life_rating = 10
 terrain = jungle
+owner = LIB
+controller = LIB

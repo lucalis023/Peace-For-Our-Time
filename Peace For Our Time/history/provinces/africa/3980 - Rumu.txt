@@ -1,6 +1,5 @@
-owner = AZA
-controller = AZA
-add_core = AZA
-add_core = CAR
+owner = CNG
+controller = CNG
+add_core = CNG
 trade_goods = grain
 life_rating = 30

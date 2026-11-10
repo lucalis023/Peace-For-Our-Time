@@ -1,6 +1,6 @@
-owner = WSA
-controller = WSA
-add_core = WSA
+owner = MOR
+controller = MOR
+add_core = MOR
 trade_goods = slave_trading
 life_rating = 15
 terrain = urban

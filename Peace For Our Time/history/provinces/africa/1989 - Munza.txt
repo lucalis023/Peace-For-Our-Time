@@ -1,6 +1,6 @@
-owner = LBA
-controller = LBA
-add_core = LBA
+owner = CNG
+controller = CNG
+add_core = CNG
 trade_goods = grain
 terrain = jungle_farmland
 life_rating = 30

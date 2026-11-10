@@ -1,7 +1,6 @@
-owner = WRL
-controller = WRL
-add_core = MAJ
-add_core = WRL
+owner = SOM
+controller = SOM
+add_core = SOM
 trade_goods = cattle
 life_rating = 31
 terrain = dryhills

@@ -2,3 +2,6 @@ terrain = semidesert
 trade_goods = grain
 life_rating = 10
 colonial = 1
+owner = NMB
+controller = NMB
+add_core = NMB

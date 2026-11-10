@@ -1,8 +1,6 @@
-owner = NGO
-controller = NGO
-add_core = SHO
-add_core = AGC
-add_core = GAZ
+owner = MOZ
+controller = MOZ
+add_core = MOZ
 trade_goods = tobacco
 terrain = savanna
 life_rating = 35

@@ -1,0 +1,6 @@
+owner = RGA
+controller = RGA
+add_core = RGA
+trade_goods = cattle
+life_rating = 10
+terrain = semidesert

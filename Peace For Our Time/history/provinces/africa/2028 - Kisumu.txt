@@ -1,6 +1,6 @@
-owner = WNG
-controller = WNG
-add_core = WNG
+owner = KNY
+controller = KNY
+add_core = KNY
 trade_goods = fish
 terrain = jungle
 life_rating = 25

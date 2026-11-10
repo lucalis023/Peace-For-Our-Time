@@ -1,6 +1,6 @@
-owner = TSG
-controller = TSG
-add_core = TSG
+owner = ZAM
+controller = ZAM
+add_core = ZAM
 terrain = savanna
 trade_goods = grain
 life_rating = 30

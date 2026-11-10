@@ -1,6 +1,5 @@
-owner = SHW
-controller = SHW
-add_core = SHW
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = timber
 life_rating = 35

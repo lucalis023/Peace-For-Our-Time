@@ -1,4 +1,4 @@
-owner = XIN
+owner = QNG
 controller = QNG
 add_core = CHI
 add_core = XIN

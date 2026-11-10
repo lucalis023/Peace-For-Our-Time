@@ -1,7 +1,6 @@
-owner = XIN
-controller = XIN
+owner = QNG
+controller = QNG
 add_core = XIN
-add_core = HNZ
 add_core = CHI
 trade_goods = grain
 life_rating = 32

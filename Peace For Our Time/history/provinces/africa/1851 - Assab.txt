@@ -1,5 +1,5 @@
-owner = AWS
-controller = AWS
+owner = TIG
+controller = TIG
 add_core = AWS
 trade_goods = fish
 terrain = coastal_desert

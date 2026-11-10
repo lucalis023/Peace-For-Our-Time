@@ -1,4 +1,6 @@
-add_core = ADW
+add_core = CAR
 trade_goods = wool
 life_rating = 10
 colonial = 1
+owner = CAR
+controller = CAR

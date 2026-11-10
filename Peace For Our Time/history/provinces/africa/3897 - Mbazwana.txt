@@ -1,7 +1,6 @@
-owner = TSN
-controller = TSN
-add_core = TSN
-add_core = ZUL
+owner = SAF
+controller = SAF
+add_core = SAF
 trade_goods = grain
 terrain = savanna
 life_rating = 35

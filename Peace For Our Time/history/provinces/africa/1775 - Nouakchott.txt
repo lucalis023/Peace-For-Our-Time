@@ -3,3 +3,5 @@ trade_goods = fish
 life_rating = 10
 terrain = coastal_desert
 colonial = 1
+owner = TRZ
+controller = TRZ

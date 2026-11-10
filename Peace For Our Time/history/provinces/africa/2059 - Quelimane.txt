@@ -1,7 +1,6 @@
-owner = POR
-controller = POR
-add_core = AGC
-add_core = SHO
+owner = MOZ
+controller = MOZ
+add_core = MOZ
 trade_goods = cotton
 terrain = marsh
 life_rating = 35

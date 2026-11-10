@@ -1,7 +1,6 @@
-owner = RZQ
-controller = RZQ
-add_core = DAR
-add_core = RZQ
+owner = SUD
+controller = SUD
+add_core = SUD
 terrain = savanna
 trade_goods = iron
 life_rating = 35

@@ -1,0 +1,6 @@
+add_core = SLE
+trade_goods = sugar
+life_rating = 10
+terrain = jungle
+owner = SLE
+controller = SLE

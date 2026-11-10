@@ -1,6 +1,5 @@
-owner = ZAM
-controller = ZAM
-add_core = ZAM
+owner = TSW
+controller = TSW
 add_core = TSW
 terrain = savanna
 trade_goods = wool

@@ -1,4 +1,6 @@
-add_core = KPM
+add_core = SLE
 trade_goods = fruit
 life_rating = 10
 terrain = jungle_hills
+owner = SLE
+controller = SLE

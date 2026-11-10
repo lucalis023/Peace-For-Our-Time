@@ -1,7 +1,6 @@
-owner = BMW
-controller = BMW
-add_core = MAT
-add_core = BMW
+owner = SAF
+controller = SAF
+add_core = SAF
 terrain = savanna
 trade_goods = grain
 life_rating = 30

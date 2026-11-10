@@ -1,6 +1,6 @@
-owner = GAZ
-controller = GAZ
-add_core = GAZ
+owner = MOZ
+controller = MOZ
+add_core = MOZ
 terrain = savanna
 trade_goods = fish
 life_rating = 35

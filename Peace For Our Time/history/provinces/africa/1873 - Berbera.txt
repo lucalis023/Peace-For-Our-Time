@@ -1,6 +1,7 @@
-add_core = WRL
-add_core = HBR
+add_core = SOM
 trade_goods = cattle
 terrain = semidesert
 life_rating = 10
 colonial = 1
+owner = ENG
+controller = ENG

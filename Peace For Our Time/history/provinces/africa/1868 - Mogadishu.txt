@@ -1,7 +1,6 @@
 owner = SOM
 controller = SOM
 add_core = SOM
-add_core = GEL
 trade_goods = ivory
 terrain = savanna
 life_rating = 35

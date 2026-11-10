@@ -1,6 +1,5 @@
-owner = MZR
-controller = MZR
-add_core = MZR
-add_core = OMA
+owner = TNZ
+controller = TNZ
+add_core = TNZ
 trade_goods = grain
 life_rating = 35

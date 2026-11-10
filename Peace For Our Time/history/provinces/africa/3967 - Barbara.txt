@@ -1,7 +1,6 @@
-owner = ISQ
-controller = ISQ
-add_core = WRL
-add_core = ISQ
+owner = ENG
+controller = ENG
+add_core = SOM
 trade_goods = grain
 life_rating = 31
 terrain = coastal_desert

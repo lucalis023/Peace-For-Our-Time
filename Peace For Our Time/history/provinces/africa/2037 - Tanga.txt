@@ -1,8 +1,6 @@
-owner = SMB
-controller = SMB
-add_core = SMB
-add_core = OMA
-add_core = MZR
+owner = TNZ
+controller = TNZ
+add_core = TNZ
 trade_goods = ivory
 terrain = jungle
 life_rating = 35

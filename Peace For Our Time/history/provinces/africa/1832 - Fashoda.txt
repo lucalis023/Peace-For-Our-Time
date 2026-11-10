@@ -1,6 +1,5 @@
-owner = SHK
-controller = SHK
-add_core = SHK
+owner = SUD
+controller = SUD
 add_core = SUD
 trade_goods = grain
 life_rating = 35

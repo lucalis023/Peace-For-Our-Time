@@ -1,4 +1,6 @@
-add_core = SOM
+add_core = ETH
 terrain = semidesert
 trade_goods = wool
 life_rating = 10
+owner = ETH
+controller = ETH

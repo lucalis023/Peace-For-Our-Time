@@ -1,7 +1,5 @@
-owner = TOO
-controller = TOO
-add_core = WOL
-add_core = TOO
+owner = TRZ
+controller = TRZ
 add_core = TRZ
 trade_goods = grain
 life_rating = 25

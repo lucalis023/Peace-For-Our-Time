@@ -1,6 +1,6 @@
-owner = TPT
-controller = TPT
-add_core = TPT
+owner = TNZ
+controller = TNZ
+add_core = TNZ
 trade_goods = slave_trading
 terrain = hills
 life_rating = 25

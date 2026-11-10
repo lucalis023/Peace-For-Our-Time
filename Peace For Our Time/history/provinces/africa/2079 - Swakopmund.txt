@@ -2,3 +2,6 @@ trade_goods = iron #https://www.namibiadigitalrepository.com/files/original/61ec
 life_rating = 10
 terrain = coastal_desert
 colonial = 1
+owner = NMB
+controller = NMB
+add_core = NMB

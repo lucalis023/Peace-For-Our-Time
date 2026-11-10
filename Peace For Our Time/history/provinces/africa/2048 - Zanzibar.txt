@@ -1,6 +1,5 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = MZR
+controller = MZR
 add_core = MZR
 trade_goods = slave_trading
 terrain = small_island

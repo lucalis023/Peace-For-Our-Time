@@ -1,6 +1,6 @@
-owner = TSG
-controller = TSG
-add_core = TSG
+owner = ZAM
+controller = ZAM
+add_core = ZAM
 terrain = hills
 trade_goods = fruit
 life_rating = 30

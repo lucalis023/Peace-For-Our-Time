@@ -1,5 +1,6 @@
-add_core = KPM
 add_core = LIB
 trade_goods = cattle
 life_rating = 10
 terrain = jungle
+owner = LIB
+controller = LIB

@@ -1,7 +1,5 @@
-owner = SHW
-controller = SHW
-add_core = SHW
-add_core = ORM
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = cotton
 life_rating = 35

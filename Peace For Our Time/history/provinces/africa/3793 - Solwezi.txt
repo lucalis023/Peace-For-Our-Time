@@ -1,0 +1,6 @@
+add_core = ZAM
+terrain = savanna
+trade_goods = iron
+life_rating = 10
+owner = ZAM
+controller = ZAM

@@ -1,5 +1,6 @@
-add_core = BRD
-add_core = LBA
+add_core = CNG
 trade_goods = fruit
 terrain = jungle_mountains
 life_rating = 10
+owner = CNG
+controller = CNG

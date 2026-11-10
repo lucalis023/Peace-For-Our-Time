@@ -1,3 +1,5 @@
-add_core = AZA
+add_core = CNG
 trade_goods = fruit
 life_rating = 10
+owner = CNG
+controller = CNG

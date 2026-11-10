@@ -1,6 +1,5 @@
-owner = AWS
-controller = AWS
-add_core = AWS
+owner = FRA
+controller = FRA
 trade_goods = cattle
 life_rating = 30
 terrain = coastal_desert

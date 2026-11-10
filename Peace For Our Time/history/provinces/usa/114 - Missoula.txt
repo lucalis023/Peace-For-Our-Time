@@ -4,3 +4,5 @@ trade_goods = wool
 terrain = semidesert
 life_rating = 10
 colonial = 1
+owner = TIG
+controller = TIG

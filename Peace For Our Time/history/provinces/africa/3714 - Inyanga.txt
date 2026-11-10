@@ -1,6 +1,5 @@
-owner = SHO
-controller = SHO
-add_core = SHO
+owner = ZBW
+controller = ZBW
 add_core = ZBW
 trade_goods = cattle
 terrain = mountain

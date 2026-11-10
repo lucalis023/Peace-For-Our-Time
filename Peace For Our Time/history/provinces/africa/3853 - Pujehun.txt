@@ -1,0 +1,5 @@
+add_core = SLE
+trade_goods = fish
+life_rating = 10
+owner = SLE
+controller = SLE

@@ -1,0 +1,6 @@
+add_core = MOZ
+trade_goods = cattle
+terrain = jungle_hills
+life_rating = 10
+owner = MOZ
+controller = MOZ

@@ -1,7 +1,5 @@
-owner = MZR
-controller = MZR
-add_core = OMA
-add_core = AGC
-add_core = MZR
+owner = MOZ
+controller = MOZ
+add_core = MOZ
 trade_goods = cotton
 life_rating = 35

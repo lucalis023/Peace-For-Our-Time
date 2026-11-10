@@ -1,8 +1,6 @@
-owner = OMA
-controller = OMA
-add_core = OMA
-add_core = SMB
-add_core = MZR
+owner = TNZ
+controller = TNZ
+add_core = TNZ
 trade_goods = cotton
 terrain = jungle
 life_rating = 35

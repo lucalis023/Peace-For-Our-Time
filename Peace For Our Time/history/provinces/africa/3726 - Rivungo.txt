@@ -1,7 +1,6 @@
-owner = ZAM
-controller = ZAM
-add_core = ZAM
-add_core = MBN
+owner = ANG
+controller = ANG
+add_core = ANG
 terrain = savanna
 trade_goods = grain
 life_rating = 30

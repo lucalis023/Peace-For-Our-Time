@@ -1,5 +1,7 @@
-add_core = TSG
+add_core = ZAM
 terrain = savanna
 trade_goods = iron
 life_rating = 10
 colonial = 1
+owner = ZAM
+controller = ZAM

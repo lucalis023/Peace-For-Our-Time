@@ -3,3 +3,5 @@ trade_goods = timber
 terrain = montane_forest
 life_rating = 5
 colonial = 1
+owner = TIB
+controller = TIB

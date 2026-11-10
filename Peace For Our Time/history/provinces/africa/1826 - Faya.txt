@@ -1,4 +1,6 @@
 trade_goods = wool
-add_core = TUA
+add_core = CHD
 life_rating = 10
 colonial = 1
+owner = CHD
+controller = CHD

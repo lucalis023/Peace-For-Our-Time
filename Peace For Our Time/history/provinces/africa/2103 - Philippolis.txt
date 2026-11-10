@@ -1,7 +1,6 @@
-owner = ZOU
-controller = ZOU
-add_core = ZOU
-add_core = BSH
+owner = SAF
+controller = SAF
+add_core = SAF
 terrain = dryhills
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,5 @@
-owner = STP
-controller = STP
-add_core = BMW
+owner = TSW
+controller = TSW
 add_core = TSW
 terrain = savanna
 trade_goods = wool

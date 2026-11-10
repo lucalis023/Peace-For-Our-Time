@@ -1,4 +1,6 @@
-add_core = SMB
+add_core = KNY
 trade_goods = grain
 terrain = savanna
 life_rating = 10
+owner = KNY
+controller = KNY

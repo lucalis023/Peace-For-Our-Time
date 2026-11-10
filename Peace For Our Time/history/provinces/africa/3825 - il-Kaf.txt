@@ -1,7 +1,5 @@
-owner = LBY
-controller = LBY
-add_core = LBY
-add_core = RGA
+owner = TUN
+controller = TUN
 add_core = TUN
 trade_goods = grain
 life_rating = 35

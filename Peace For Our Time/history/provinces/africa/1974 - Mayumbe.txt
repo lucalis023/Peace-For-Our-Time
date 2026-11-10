@@ -1,6 +1,5 @@
-owner = LOA
-controller = LOA
+owner = GAB
+controller = GAB
 add_core = GAB
-add_core = LOA
 trade_goods = fish
 life_rating = 35

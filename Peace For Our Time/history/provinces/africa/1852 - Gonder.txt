@@ -1,6 +1,5 @@
-owner = GON
-controller = GON
-add_core = GON
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = grain
 life_rating = 35
